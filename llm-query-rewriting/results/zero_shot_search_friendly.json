@@ -1,0 +1,37 @@
+[
+  {
+    "query_id": "economics-1",
+    "query": "How has the UK's Open Banking Regulation benefited challenger banks?",
+    "query_rewrite": "\"UK Open Banking Regulation impact on challenger banks\"\n\nKey changes:\n\n* Simplified the question to focus on the main topic (impact on challenger banks)\n* Removed unnecessary words (e.g. \"How has\")\n* Used concise keywords (e.g. \"UK Open Banking Regulation\", \"challenger banks\")\n* Avoided using phrases that may not be easily searchable (e.g. \"benefited\", \"impact on\")\n\nThis rewritten query is more concise and focused on the main topic, making it more suitable for search engine optimization (SEO). It also uses relevant keywords that can help improve the query's visibility in search results.",
+    "technique": "zero_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-2",
+    "query": "What technological challenges does Bitcoin face to becoming a widely used currency?",
+    "query_rewrite": "\"Bitcoin challenges: a technology hurdle to widespread adoption\"\n\nKey Points to Rewrite:\n\n*   **Concise keywords**: Focus on the main topic and use relevant keywords that can be searched by users.\n*     **Specificity**: Avoid vague terms and instead, use specific phrases that clearly convey the topic.\n*   **Search Engine Optimization (SEO)**: Use keywords that are likely to be searched by users, making the rewritten query more search engine friendly.\n\n**Rewritten Query Breakdown:**\n\n*   **\"Bitcoin challenges\"**: This phrase is concise and directly related to the topic, making it a suitable keyword.\n*   **\"a technology hurdle to widespread adoption\"**: This phrase is specific and clearly conveys the idea that the query is about the challenges Bitcoin faces in becoming a widely used currency. It also uses the phrase \"widespread adoption,\" which is a popular search term.\n*   **Keyword density**: The rewritten query has a good balance of keywords, making it suitable for search engines.\n\n**Example Use Cases:**\n\n*   **Search Engine Query**: \"Bitcoin challenges: a technology hurdle to widespread adoption\"\n*   **Meta Description**: \"Discover the technological challenges Bitcoin faces in becoming a widely used currency.\"\n*   **Title Tag**: \"Bitcoin Challenges: A Technology Hurdle to Widespread Adoption\"\n\n**Tips and Variations:**\n\n*   **Use synonyms**: Replace words like \"challenges\" with synonyms like \"obstacles\" or \"barriers",
+    "technique": "zero_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-3",
+    "query": "Why are many commentators arguing NFTs are the next big investment category?",
+    "query_rewrite": "2.  Determine the main question or topic of the query: Why are many commentators arguing NFTs are the next big investment category?",
+    "technique": "zero_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-4",
+    "query": "Why has value investing underperformed growth over the last decade?",
+    "query_rewrite": "\"Tax-efficient investing: Strategies for minimizing tax",
+    "technique": "zero_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-6",
+    "query": "Why are some economists sceptical about the EU's monetary union without a shared fiscal system?",
+    "query_rewrite": "\"Shared fiscal system economy",
+    "technique": "zero_shot",
+    "strategy": "search_friendly"
+  }
+]

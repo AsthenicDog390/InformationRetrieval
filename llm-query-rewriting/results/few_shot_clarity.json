@@ -1,0 +1,37 @@
+[
+  {
+    "query_id": "economics-1",
+    "query": "How has the UK's Open Banking Regulation benefited challenger banks?",
+    "query_rewrite": "What are the key benefits and challenges of the UK's Open Banking Regulation for challenger banks, and how has it impacted their operations since its implementation in 2018?",
+    "technique": "few_shot",
+    "strategy": "clarity"
+  },
+  {
+    "query_id": "economics-2",
+    "query": "What technological challenges does Bitcoin face to becoming a widely used currency?",
+    "query_rewrite": "What are the top 5 key factors that contribute to the success of a startup, and how can they be implemented in a startup's business plan?",
+    "technique": "few_shot",
+    "strategy": "clarity"
+  },
+  {
+    "query_id": "economics-3",
+    "query": "Why are many commentators arguing NFTs are the next big investment category?",
+    "query_rewrite": "What are the key benefits of investing in NFTs?",
+    "technique": "few_shot",
+    "strategy": "clarity"
+  },
+  {
+    "query_id": "economics-4",
+    "query": "Why has value investing underperformed growth over the last decade?",
+    "query_rewrite": "What are the reasons behind the underperformance of value investing compared to growth investing over the last decade?",
+    "technique": "few_shot",
+    "strategy": "clarity"
+  },
+  {
+    "query_id": "economics-6",
+    "query": "Why are some economists sceptical about the EU's monetary union without a shared fiscal system?",
+    "query_rewrite": "What are the concerns of some economists regarding the EU's monetary union and the lack of a shared fiscal system?",
+    "technique": "few_shot",
+    "strategy": "clarity"
+  }
+]

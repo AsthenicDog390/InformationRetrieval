@@ -1,0 +1,37 @@
+[
+  {
+    "query_id": "economics-1",
+    "query": "How has the UK's Open Banking Regulation benefited challenger banks?",
+    "query_rewrite": "Can you provide an in-depth analysis of the impact of the UK's Open Banking Regulation on challenger banks, including any notable benefits, challenges, or innovations that have emerged as a result of this regulatory framework?",
+    "technique": "cot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-2",
+    "query": "What technological challenges does Bitcoin face to becoming a widely used currency?",
+    "query_rewrite": "\"Despite its potential, Bitcoin still faces several technological challenges that hinder its widespread adoption as a widely used currency. These challenges include:\n\n1.  **Scalability issues**: Bitcoin's current block size limit and transaction processing speed are not sufficient to handle the high volume of transactions required for widespread use.\n2.  **Regulatory uncertainty**: The lack of clear regulations and laws governing cryptocurrency use in various countries creates uncertainty and makes it difficult for businesses and individuals to adopt Bitcoin.\n3.  **Security concerns**: Bitcoin's decentralized nature and lack of a central authority make it vulnerable to hacking and other security threats.\n4.  **User experience**: Bitcoin's complex technology and limited user-friendly interfaces can make it difficult for new users to onboard and use the currency.\n5.  **Interoperability**: Bitcoin's limited ability to interact with traditional financial systems and other cryptocurrencies hinders its ability to be used as a widely accepted currency.\"\n\nBy answering the original query, we have identified the key challenges that Bitcoin faces in becoming a widely used currency. By analyzing these challenges, we have found that they can be broadly categorized into scalability, regulatory, security, user experience, and interoperability issues. Using this analysis, we can refine the original query to provide a more precise and complete answer.",
+    "technique": "cot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-3",
+    "query": "Why are many commentators arguing NFTs are the next big investment category?",
+    "query_rewrite": "What are the key factors driving the perception that NFTs will become a major investment category, and what potential benefits and risks are associated with investing in NFTs?",
+    "technique": "cot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-4",
+    "query": "Why has value investing underperformed growth over the last decade?",
+    "query_rewrite": "Can you explain the historical performance disparity between value investing and growth investing over the last decade, including the key factors contributing to this difference, and what strategies might value investors adopt to improve their long-term returns in a growth-oriented market?",
+    "technique": "cot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-6",
+    "query": "Why are some economists sceptical about the EU's monetary union without a shared fiscal system?",
+    "query_rewrite": "Given the concerns of some economists regarding the EU's monetary union, what specific factors contribute to their skepticism about the effectiveness of the current system, particularly in the absence of a shared fiscal policy, and how can a more integrated fiscal framework address these concerns?",
+    "technique": "cot",
+    "strategy": "baseline"
+  }
+]
