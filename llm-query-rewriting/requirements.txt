@@ -2,3 +2,5 @@ datasets
 transformers
 torch
 accelerate
+python-terrier
+notebook
