@@ -1,3 +1,4 @@
+import os
 from datasets import load_dataset
 
 class Query:
@@ -19,9 +20,10 @@ class Query:
     def __repr__(self):
         return f"Query(query_id={self.query_id}, query={self.query}, domain={self.domain}, guidelines={self.guidelines})"
 
+hf_token = os.getenv("HUGGINGFACE_TOKEN")
 
 def retrieve_queries():
-    codec_queries = load_dataset('irds/codec', 'queries', token='<YOUR_HG_TOKEN>')
+    codec_queries = load_dataset('irds/codec', 'queries', token=hf_token)
 
     queries = [Query(**record) for record in codec_queries]
     
