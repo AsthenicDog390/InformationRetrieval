@@ -1,7 +1,7 @@
 import os
 import re
 import json
-from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, pipeline
+from transformers import AutoModelForCausalLM, AutoTokenizer, QuantoConfig, pipeline
 import query_loader
 import torch
 import time
@@ -9,7 +9,7 @@ import time
 torch.mps.empty_cache()  # Clears unused MPS memory
 torch.mps.synchronize()  # Ensures all operations are completed
 
-hf_token = os.getenv("HUGGINGFACE_TOKEN") 
+hf_token = os.getenv("HUGGINGFACE_TOKEN")
 
 
 # ----------------------------
@@ -46,17 +46,16 @@ class PromptingTechniques:
             return f"Rewrite the following query:\nQuery: \"{query}\"\nRewritten Query:"
         
         if technique == "cot" and strategy is None:
-            # Chain-of-Thought (CoT) prompt: encourage a step-by-step analysis before rewriting.
            return (
-                f"You are an expert in search query reformulation. Your task is to refine the given query by first answering it and then using that answer to improve clarity, completeness, and relevance.\n\n"
+                f"You are an expert in search query reformulation. Your task is to improve the given query by first answering it and then using that answer to refine the query for better clarity, relevance, and completeness.\n\n"
 
-                f"Follow these steps:\n"
-                f"1. **Answer the Query:** Based on your knowledge, generate a well-structured and informative response.\n"
-                f"2. **Analyze the Response:** Identify missing details or ambiguities in the original query.\n"
-                f"3. **Rewrite the Query:** Using the answer, generate a more precise and complete version of the original query.\n\n"
+                f"Follow these steps carefully:\n"
+                f"1. **Answer the Query:** Based on your knowledge, provide a well-structured and informative response to the original query. Your answer should be comprehensive and address all implied aspects of the query.\n"
+                f"2. **Analyze the Response:** Evaluate the answer you provided. Identify any missing information, ambiguities, or unclear areas in the original query that need to be addressed.\n"
+                f"3. **Rewrite the Query:** Using the analysis from Step 2 and the answer from Step 1, refine the original query to make it more precise, complete, and easier to interpret. Ensure that the rewritten query is clearly focused on the key aspects that require search results.\n\n"
 
                 f"Original Query: \"{query}\"\n\n"
-                
+
                 f"Rewritten Query:\n"
             )
         
@@ -107,18 +106,14 @@ class PromptingTechniques:
 # ----------------------------
 # Model Generator Setup
 # ----------------------------
-def get_llm_generator(model_name="meta-llama/Llama-3.1-8B-Instruct"):
+def get_llm_generator(model_name="meta-llama/Llama-3.2-3B-Instruct"):
     """
     Loads the tokenizer and model, and returns a text generation pipeline.
     Ensure you have access (and pass a Hugging Face token if required).
     """
-    bnb_config = BitsAndBytesConfig(
-        load_in_4bit=True,
-        bnb_4bit_quant_type="nf4",  # Normalized Float 4 (better accuracy)
-        bnb_4bit_compute_dtype="float16"
-    )
+    #quantization_config = QuantoConfig(weights="int8")
     tokenizer = AutoTokenizer.from_pretrained(model_name, token=hf_token)
-    model = AutoModelForCausalLM.from_pretrained(model_name, quantization_config=bnb_config, token=hf_token, device_map="sequential")
+    model = AutoModelForCausalLM.from_pretrained(model_name, token=hf_token, device_map="auto")
     generator = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=300)
     return generator
 
@@ -128,7 +123,7 @@ def get_llm_generator(model_name="meta-llama/Llama-3.1-8B-Instruct"):
 def rewriting_pipeline(queries):
     """
     For each query in the list, generate rewrites using various prompting combinations.
-    Total possibilities: 1 baseline + (3 strategies * 3 techniques) = 10 possibilities.
+    Total possibilities: 1 baseline + (3 strategies * 2 techniques) + CoT = 7 possibilities.
     Saves results in separate JSON files under the "results" folder.
     """
     # Create results folder if it doesn't exist
@@ -174,17 +169,11 @@ def rewriting_pipeline(queries):
                 rewrite = generated_text.split("Rewritten:")[-1].strip()
             else:
                 rewrite = generated_text.strip()
-            
-
-            match = re.search(r'([^"\n]*\?)', rewrite)
-            only_query = rewrite
-            if match:
-                only_query = match.group(1).strip(' "\n')
         
             result_item = {
                 "query_id": query_obj.query_id,
                 "query": query_obj.query,
-                "query_rewrite": only_query,
+                "query_rewrite": rewrite,
                 "technique": technique,
                 "strategy": strategy if strategy is not None else "baseline"
             }
@@ -202,4 +191,6 @@ def rewriting_pipeline(queries):
 if __name__ == "__main__":
     queries = query_loader.retrieve_queries()
     print(f"Rewriting {len(queries)} queries...")
-    rewriting_pipeline(queries[:5])
+    
+    rewriting_pipeline(queries)
+    

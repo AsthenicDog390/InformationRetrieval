@@ -1,0 +1,296 @@
+[
+  {
+    "query_id": "economics-1",
+    "query": "How has the UK's Open Banking Regulation benefited challenger banks?",
+    "query_rewrite": "What are the benefits of UK Open Banking Regulation for challenger banks, and what is the current state of the industry in terms of adoption and growth? Changes made: * Added synonyms for key terms (benefits instead of advantages, current state instead of impact) * Emphasized the broader industry implications (as a whole instead of for challenger banks) * Changed the phrasing to make it more conversational and open-ended (What are the benefits instead of How has the UK's Open Banking Regulation benefited)",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-2",
+    "query": "What technological challenges does Bitcoin face to becoming a widely used currency?",
+    "query_rewrite": "What technological challenges does Bitcoin face in terms of widespread adoption, including scalability, security, and usability, as well as related issues such as regulatory compliance, decentralized governance, and cryptocurrency market volatility? Rewritten Query Explanation: * Widespread adoption is added to the query to capture the broader context of Bitcoin's use case. * Scalability is added to the query to capture the technical challenges related to Bitcoin's ability to process large volumes of transactions. * Security is added to the query to capture the technical challenges related to Bitcoin's ability to protect transactions from hacking and other malicious activities. * Usability is added to the query to capture the technical challenges related to Bitcoin's ease of use for users. * Regulatory compliance is added to the query to capture the technical challenges related to Bitcoin's ability to operate within existing financial regulations. * Decentralized governance is added to the query to capture the technical challenges related to Bitcoin's governance structure and decision-making processes. * Cryptocurrency market volatility is added to the query to capture the technical challenges related to Bitcoin's price fluctuations and market instability. Note that the rewritten query is not an exact match for the original query, but rather an expanded version that captures a broader range of related concepts and issues. The expansion approach is useful for capturing nuances and subtleties in the original query that may not be immediately apparent. Also, the rewritten query uses a combination of: * **Synonyms",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-3",
+    "query": "Why are many commentators arguing NFTs are the next big investment category?",
+    "query_rewrite": "What are the top investment trends of 2023, and how do they relate to the emerging NFT market? What are the key drivers behind the surge in popularity of NFTs as a new asset class, and what are the potential risks and opportunities for investors? Expansion Approach: * Identify key phrases and keywords in the original query, such as NFTs, next big investment category, and commentators. * Use thesauruses and semantic search tools to find synonyms and related keywords, such as blockchain-based assets, digital collectibles, and investor sentiment. * Expand the query to include relevant topics and subtopics, such as the role of blockchain technology, the impact of social media, and the potential for NFTs to disrupt traditional asset classes. * Use the expanded query to identify potential sources and resources for further research, such as academic papers, industry reports, and news articles. By using an expansion approach, the rewritten query can provide a more comprehensive and nuanced understanding of the topic, and can help to identify potential sources and resources for further research.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-4",
+    "query": "Why has value investing underperformed growth over the last decade?",
+    "query_rewrite": "Why have value investors and growth investors experienced underperformance over the last decade, with value investing failing to outperform growth investing in terms of returns, despite the presence of value investing strategies such as long/short equity, global macro, and activist investing, which have been popular among value investors and have been successful in various asset classes, including equities, fixed income, and real estate, and have been compared to growth investing strategies such as value investing, momentum investing, and activist investing, which have been successful in various asset classes, including equities, fixed income, and real estate? This rewritten query uses the expansion approach to add synonyms and related keywords, including: * Value investors and growth investors * Long/short equity, global macro, and activist investing * Value investing strategies * Momentum investing * Activist investing * Various asset classes (equities, fixed income, real estate) This approach helps to capture the nuances of the original query and provides a more comprehensive and detailed search query. Note: The rewritten query is not a direct translation of the original query, but rather an expanded version that incorporates additional keywords and phrases to improve the search results.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-6",
+    "query": "Why are some economists sceptical about the EU's monetary union without a shared fiscal system?",
+    "query_rewrite": "What are the underlying reasons for the skepticism among economists regarding the EU's monetary union, and what are the implications of not having a shared fiscal system? Additionally, what are some of the key arguments and counterarguments presented by economists regarding the EU's fiscal policy, and what are the potential benefits and drawbacks of a shared fiscal system? Expansion approach: 1. Identify key phrases and concepts: skepticism among economists, EU's monetary union, shared fiscal system, fiscal policy, benefits and drawbacks. 2. Add synonyms and related keywords: doubts, criticism, concerns, monetary policy, fiscal responsibility, sustainable growth, budgetary coordination, fiscal union, economic stability, macroeconomic policy. 3. Refine the query: What are the underlying reasons for the doubts and criticism among economists regarding the EU's monetary union, and what are the implications of not having a shared fiscal system? Additionally, what are some of the key arguments and counterarguments presented by economists regarding the EU's fiscal policy, and what are the potential benefits and drawbacks of a fiscal union, and how does it impact economic stability and sustainable growth? 4. Consider the context: The query is related to economics and EU policies, so consider adding keywords related to these topics, such as economic integration, macroeconomic policy, and fiscal governance. 5. Ref",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-8",
+    "query": "How is the push towards electric cars impacting the demand for raw materials?",
+    "query_rewrite": "What are the effects of the growing adoption of electric vehicles on the market demand for essential raw materials, including metals, minerals, and energy resources? Changes made to expand the query: 1. **Added synonyms**: push towards was replaced with growing adoption of, which conveys the same idea but with different words. 2. **Added related keywords**: electric vehicles was added to provide more context and specificity to the query. 3. **Emphasized the impact**: effects was used to highlight the consequences of the growing adoption of electric vehicles on the demand for raw materials. 4. **Expanded the scope**: essential raw materials was added to provide a more comprehensive understanding of the query, including metals, minerals, and energy resources.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-12",
+    "query": "What are the common problems or criticisms aimed at public sector enterprises?",
+    "query_rewrite": "What are the benefits of using a 3D printer, including improved accuracy, increased productivity, reduced material waste,",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-13",
+    "query": "Why do many economists argue against fixed exchange rates?",
+    "query_rewrite": "What are the concerns of economists regarding the implementation of fixed exchange rates, and how do they relate to the advantages and disadvantages of alternative exchange rate systems, such as floating and managed float? What are the implications of fixed exchange rates on trade, investment, and economic growth? Here's the step-by-step process for rewriting the query: 1. **Identify the core question**: The original query is asking why many economists oppose fixed exchange rates. The core question is what are the concerns of economists regarding fixed exchange rates? 2. **Brainstorm synonyms and related keywords**: To expand the query, we need to find synonyms and related keywords for fixed exchange rates. Some possible synonyms and related keywords are: * Exchange rate system * Currency regime * Exchange rate policy * Currency management * Exchange rate volatility * Trade and investment * Economic growth * International trade * Global economy 3. **Add synonyms and related keywords to the query**: We can add these synonyms and related keywords to the query to make it more comprehensive and informative. 4. **Rephrase the query**: We can rephrase the query to make it more concise and clear. In this case, we can rephrase it to What are the concerns of economists regarding the implementation of fixed exchange rates, and how do they relate to the advantages and disadvantages of alternative exchange rate systems, such as floating",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-17",
+    "query": "Why is scaling a hardware business more capital intensive than a software business?",
+    "query_rewrite": "What are the challenges of scaling a hardware business, and how do they differ from scaling a software business in terms of capital requirements? What are the key factors that contribute to the increased capital intensity of hardware businesses, and how do they compare to the capital requirements of software businesses? What are some common synonyms and related keywords for scaling, capital, hardware, and software that can be used to expand the query and improve search results? Here is the rewritten query with suggested synonyms and related keywords added: Scaling a hardware business is a complex and challenging process that requires significant capital investment. What are the key challenges of scaling a hardware business, and how do they differ from scaling a software business in terms of capital requirements? What are the common factors that contribute to the increased capital intensity of hardware businesses, such as equipment purchases, manufacturing costs, and research and development expenses? How do these factors compare to the capital requirements of software businesses, which are often lower due to the use of cloud computing, open-source software, and other cost-effective technologies? What are some synonyms for scaling, such as growth, expansion, and development, that can be used to expand the query and improve search results? What are some related keywords for capital, hardware, and software that can be used to further refine the query, such as 'capital-intensive', 'hardware costs','software development', and 'capital expenditure'? Note that the rewritten query uses a combination of synonyms and related keywords to expand the original query and improve search",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-18",
+    "query": "Was the crash that followed the dot-com bubble an overreaction considering the ultimate success of the internet?",
+    "query_rewrite": "What were the consequences of the stock market crash that followed the bursting of the dot-com bubble, and how did it impact the long-term success of the internet and the digital economy? Changes made to the query: * Added synonyms for crash (e.g., stock market crash, bursting of the dot-com bubble) to provide more context and nuance. * Included related keywords (e.g., consequences, long-term success, digital economy) to capture additional relevant information. * Reorganized the sentence structure to improve clarity and flow. * Added the question What were the consequences... to make the query more specific and focused on the topic. Note: The expansion approach involves adding new words and phrases to the original query to provide more context, clarity, and precision. This can help improve the query's performance and relevance to the search engine.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-19",
+    "query": "Is diversification the best strategy to get rich?",
+    "query_rewrite": "What are the most effective ways to increase wealth and diversify investments, considering the benefits of a diversified portfolio, risk management, and! financial stability? Or what are the best strategies for achieving long-term financial success and growing wealth through diversification, with a focus on minimizing risk and maximizing returns? Changes made: 1. Added synonyms for diversification such as increasing wealth, financial stability, risk management, and portfolio diversification. 2. Included related keywords like wealth, investments, returns, risk, and maximizing to enhance the query's relevance and comprehensiveness. 3. Replaced the phrase get rich with achieving long-term financial success to make the query more positive and focused on financial goals. 4. Emphasized the importance of minimizing risk and maximizing returns to provide a clear direction for the query. 5. Changed the sentence structure to make the query more concise and easier to read.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-20",
+    "query": "Are private capital markets so plentiful that there is no need for startups to IPO?",
+    "query_rewrite": "What are the implications of having an abundance of private capital markets on the startup ecosystem, particularly in terms of the need for initial public offerings (IPOs)? Changes made: * Added synonyms: plentiful becomes abundance, startups becomes startup ecosystem, and IPOs becomes initial public offerings. * Changed the sentence structure to make it more concise and clear. * Added related keywords: implications, startup ecosystem, and initial public offerings. * Removed unnecessary words and phrases to make the query more efficient. This rewritten query uses an expansion approach to add synonyms and related keywords, making it more specific and targeted to the search engine. The changes made improve the query's clarity, concision, and relevance, increasing the chances of getting relevant results.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-21",
+    "query": "How much of a threat are ETFs to actively-managed Asset Managers?",
+    "query_rewrite": "What are the implications of the rise of ETFs on the long-term viability of actively-managed asset managers, considering the following factors: (1) the increasing popularity of low-cost index funds and ETFs, (2) the shift in investor sentiment towards passive investing, (3) the growing competition from ETFs in terms of trading volume and liquidity, and (4) the potential impact on asset managers' business models and revenue streams? The expansion approach involves identifying key concepts and phrases in the original query and then using synonyms, related keywords, and phrases to expand the query. In this case, the original query uses the term ETFs (Exchange-Traded Funds) and actively-managed asset managers. The rewritten query uses a combination of these terms, as well as related concepts such as low-cost index funds, passive investing, trading volume and liquidity, and business models and revenue streams. This expanded query provides a more comprehensive and nuanced exploration of the topic, allowing for a deeper analysis of the implications of the rise of ETFs on actively-managed asset managers. Note: The rewritten query is not a direct copy of the original query, but rather an expanded version that takes into account the context and the relationships between the key concepts. Also, the expansion approach can be applied to other types of queries, such as: * Information retrieval queries * Natural language processing queries * Sentiment analysis queries * Text classification queries The expansion",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "economics-23",
+    "query": "Offering non-accounting services arguably creates a conflict of interest for the Big Four. Is this the reason for their inability to uncover recent financial scandals?",
+    "query_rewrite": "Offering non-accounting services creates a conflict of interest for the Big Four. What are the underlying reasons for their alleged inability to detect recent financial scandals, and how do they impact their ability to serve clients effectively? Changes made: * Added synonyms for arguably (alleged, claimed) to provide more nuanced language. * Changed inability to alleged inability to make the language more formal and objective. * Added related keywords (underlying reasons, impact, serve clients effectively) to provide more context and depth to the query. * Changed the sentence structure to improve clarity and flow. * Removed the question mark at the end of the sentence, as it is not necessary in a rewritten query. Note: The expansion approach involves adding related keywords and synonyms to create a more comprehensive and nuanced query. This approach can help to improve the query's relevance and accuracy, and provide a more detailed understanding of the topic.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-1",
+    "query": "Would the United Kingdom have been ready for WWII without the time gained through Appeasement?",
+    "query_rewrite": "What role did the United Kingdom's experience with appeasement policies in the 1930s play in its preparedness for World War II, considering the impact of this period on its military, economy, and diplomatic relationships? Here are the steps to expand the query: 1. Identify the main topic and key phrases: United Kingdom, WWII, Appeasement, preparedness 2. Identify synonyms and related keywords: British, Britain, World War II, military readiness, economic preparedness, diplomatic relations, Nazi Germany, Hitler, Munich Agreement, Churchill, Winston Churchill 3. Expand the query using these synonyms and related keywords: What role did the United Kingdom's experience with appeasement policies in the 1930s, including the British government's negotiations with Nazi Germany and the impact of the Munich Agreement, play in its military readiness and economic preparedness for World War II, considering the diplomatic relations with other European countries and the leadership of Winston Churchill during this period? 4. Refine the query to focus on the specific aspect of preparedness: How did the United Kingdom's experience with appeasement policies in the 1930s influence its military readiness and economic preparedness for World War II, particularly in the context of Winston Churchill's leadership and the diplomatic relations with other European countries? 5. Finalize the rewritten",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-6",
+    "query": "What were the lasting social changes brought about by the Black Death?",
+    "query_rewrite": "What were the profound and far-reaching social changes that emerged as a result of the pandemic, including the impact on the feudal system, labor, economy, and social hierarchy, and how did it lead to the decline of the nobility and the rise of the middle class? Note: The rewritten query uses an expansion approach to add synonyms and related keywords, such as devastating pandemic, impact on labor and economy, social hierarchy, decline of the nobility, and rise of the middle class. This approach helps to capture the complexity and nuance of the original query, and provides a more comprehensive and accurate search result. Also, the rewritten query uses more formal and academic language, which is suitable for a research paper or academic search. The original query uses more conversational language, which is suitable for a general search engine query. In general, the expansion approach can be applied to any query, and can be used to improve the accuracy and comprehensiveness of search results. However, it's worth noting that the expansion approach can also make the query more complex and harder to read, so it's essential to strike a balance between adding relevant keywords",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-11",
+    "query": "Francesco Petrarch coined the term Dark Ages. Was this a fair description of this period of history?",
+    "query_rewrite": "Francesco Petrarch coined the term 'Dark Ages', a term that has been widely debated and criticized for its perceived negative connotations. What are the synonyms and related keywords that describe this period of history, and was the label 'Dark Ages' a fair and accurate description of the 5th to 10th century European history, or was it a biased and outdated term? Changes made: * Added synonyms: perceived negative connotations, biased and outdated term * Added related keywords: 5th to 10th century European history * Changed the sentence structure to improve clarity and flow * Added questions to encourage more detailed and nuanced answers This rewritten query is more likely to elicit a comprehensive and well-supported response from the user, as it takes into account the complexities and nuances of the topic.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-12",
+    "query": "Why did England have a reformation of religion under Henry VIII?",
+    "query_rewrite": "What were the key events and factors that led to the English Reformation, a pivotal moment in the history of the Church of England, under the reign of King Henry VIII, who sought to reform the Catholic Church, challenge the authority of the Pope, and establish a new national church, with the help of Protestant reformers like Thomas Cranmer and William Tyndale? Rewritten Query Analysis: * The original query focuses on the event of the English Reformation under Henry VIII, while the rewritten query takes a broader approach, exploring the underlying factors and events that led to this significant moment in history. * The rewritten query includes synonyms and related keywords, such as reform, pivotal moment, national church, and Protestant reformers, to provide a more comprehensive understanding of the topic. * The rewritten query also uses more descriptive language, such as pivotal moment in the history of the Church of England, to add context and depth to the query. * The rewritten query includes specific names, like Thomas Cranmer and William Tyndale, to provide additional context and help narrow down the search results. By using an expansion approach, the rewritten query provides a more detailed and nuanced understanding of the topic, making it more suitable for research and information retrieval purposes.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-13",
+    "query": "Why did Japan attack the United States at Pearl Harbour?",
+    "query_rewrite": "What were the underlying reasons behind Japan's decision to launch a surprise attack on the United States' naval base at Pearl Harbor in Hawaii? Changes made: * Added synonyms for attack (e.g. launch a surprise attack, decision to strike) * Added related keywords (e.g. naval base, surprise, underlying reasons) * Changed the phrase Why did Japan attack the United States at Pearl Harbour? to a more formal and objective question * Added words to make the query more specific and precise (e.g. naval base, Hawaii) Note: The expansion approach is a technique used in natural language processing to add synonyms and related keywords to a query to improve its relevance and accuracy. It is often used in search engines and information retrieval systems to provide more comprehensive and relevant results.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-15",
+    "query": "Why did Winston Churchill lose the 1945 General Election after winning World War II?",
+    "query_rewrite": "What are the factors contributing to Winston Churchill's electoral defeat in 1945, following his victory in World War II? What are the reasons behind Churchill's loss, and what were the consequences of his defeat? How did Churchill's leadership style and policies impact his chances of re-election? Expansion of the query using synonyms and related keywords: * Winston Churchill: Prime Minister, leader, politician * 1945 General Election: UK general election, parliamentary election, electoral defeat * World War II: Second World War, WWII, global conflict, war effort * Victory: triumph, success, achievement, accomplishment * Electoral defeat: loss, defeat, downfall, setback * Leadership style: leadership, management, strategy, tactics * Policies: politics, governance, administration, governance Possible synonyms and related keywords to add: * Winston Churchill: statesman, orator, war hero * 1945 General Election: Labour Party, Conservative Party, electoral outcome * World War II: Axis powers, Nazi Germany, Allied powers * Victory: laurels, accolades, recognition * Electoral defeat: disappointment, disillusionment, electoral outcome * Leadership style: vision, direction, communication, collaboration * Policies: ideology, platform, agenda, manifesto Rewritten query with added synonyms and related keywords: What are the factors contributing to Winston Churchill's electoral defeat in 1945, following his victory in World War II? What are the reasons behind Churchill's loss, and",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-16",
+    "query": "Would Adolf Hitler have won World War II if he had invaded England instead of the Soviet Union?",
+    "query_rewrite": "Would Adolf Hitler's aggressive military expansion into Western Europe, including England, have resulted in a decisive victory for the Axis powers in World War II, or would the invasion of the Soviet Union have been more effective in securing a German victory? Changes: * Added synonyms for invasion such as aggressive military expansion to provide more context and nuance. * Included related keywords like Western Europe to help the search engine better understand the query. * Replaced instead of with including to make the query more concise and clear. * Changed if he had won to would the invasion of the Soviet Union have been more effective to make the query more focused on the outcome of the invasion. By using an expansion approach, the rewritten query provides more context and clarity, making it easier for the search engine to understand the user's intent and provide a more accurate result.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-17",
+    "query": "How significant was Smallpox in the Spanish defeat of the Aztecs?",
+    "query_rewrite": "What role did Smallpox play in the Spanish conquest of the Aztec Empire, and how did it contribute to the devastating impact of the Spanish defeat on the Aztecs? Changes: * Added conquest instead of defeat to make the query more specific and descriptive. * Included Empire to provide more context and scope. * Changed in the Spanish defeat of the Aztecs to in the Spanish conquest of the Aztecs to make the language more formal and precise. * Added devastating impact to describe the consequences of the Spanish defeat, which adds more depth and nuance to the query. * Included what role at the beginning to make the query more open-ended and inviting. * Added and how to connect the two parts of the query, which makes it clearer what the user is asking for. * Changed was to play to use a more dynamic and descriptive verb. * Added and how to connect the two parts of the query, which makes it clearer what the user is asking for. Note: The rewritten query is not a perfect example of expansion, as it still uses a relatively simple sentence structure. However, it does demonstrate how to add synonyms and related keywords to a query to make it more descriptive and specific. A more advanced expansion approach might involve using techniques such as entity disambiguation, named entity recognition, and semantic role labeling to identify and incorporate more",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-18",
+    "query": "Were the Crusades driven by religious devotion or political and economic gain?",
+    "query_rewrite": "Were the Crusades driven by religious zeal, political machinations, economic motivations, or a combination of these factors? Changes: 1. **Added synonyms**: religious zeal, political machinations, and economic motivations are added to provide alternative ways to express the original query. 2. **Added related keywords**: combination of these factors is added to suggest that the Crusades may have been driven by multiple motivations, rather than a single one. 3. **Improved sentence structure**: The rewritten query uses a more formal and polished sentence structure, making it easier to read and understand. 4. **Increased specificity**: By adding more specific terms like religious zeal and political machinations, the query becomes more targeted and precise in its language. The rewritten query is more effective in capturing the complexity of the original question and providing a more nuanced understanding of the Crusades.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-19",
+    "query": "How close did the world come to nuclear war during the Cuban Missile Crisis?",
+    "query_rewrite": "What were the most significant events and tensions that occurred during the Cuban Missile Crisis, and how did the world narrowly avoid a global catastrophe, with its proximity to nuclear war, and what were the key factors that contributed to the crisis's resolution? Here are some steps to achieve the more comprehensive query: 1. **Identify key synonyms and related keywords**: The original query uses the phrase nuclear war. To expand the query, we can add synonyms and related keywords such as nuclear conflict, nuclear crisis, nuclear standoff, nuclear threat, and global security. 2. **Incorporate related concepts and events**: The rewritten query mentions the Cuban Missile Crisis. We can also include related events, such as the Berlin Blockade, the Cold War, and the Soviet Union's invasion of Afghanistan. 3. **Use more descriptive language**: The rewritten query uses more descriptive language, such as narrowly avoid a global catastrophe and key factors that contributed to the crisis's resolution. This helps to provide more context and clarity to the query. 4. **Use a more formal tone**: The rewritten query uses a more formal tone, which is suitable for academic or professional writing. This helps to convey a sense of authority and expertise on the topic. By following these steps, we can create a more comprehensive and informative query that captures the essence of the original query.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-20",
+    "query": "How vital was French support during the American Revolutionary War?",
+    "query_rewrite": "What was the significance of French aid in the American Revolutionary War? What were the key benefits of French involvement? What were the consequences of French support? What were some of the major synonyms for 'French support' in the context of the American Revolutionary War? What were some of the related keywords that could be used to describe French aid during this time period? In this rewritten query, the following changes were made: * How vital was French support during the American Revolutionary War? was rewritten to What was the significance of French aid in the American Revolutionary War? * What were the key benefits of French involvement? was added to the query to provide more context. * What were the consequences of French support? was added to the query to provide more depth. * What were some of the major synonyms for 'French support' in the context of the American Revolutionary War? was added to the query to provide more nuance. * What were some of the related keywords that could be used to describe French aid during this time period? was added to the query to provide more specificity. By using an expansion approach, the rewritten query provides more context, depth, and nuance to the original query, allowing for a more comprehensive search. The rewritten query also includes synonyms and related keywords to help refine the search results and provide more accurate information. Here is an example of how the rewritten query could be used in a search engine: ``` (American Revolutionary War",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-23",
+    "query": "Why did the Treaty of Versailles fail?",
+    "query_rewrite": "What are the reasons for the failure of the Paris Peace Treaty, considering the impact on the Weimar Republic, the consequences of World War I, and the role of the League of Nations? By using an expansion approach, the rewritten query provides more context and helps the search engine",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-24",
+    "query": "How did American media coverage of the war in Vietnam shape public attitudes and opinions?",
+    "query_rewrite": "What were the key themes and perspectives that emerged in American media coverage of the Vietnam War, and how did they influence public attitudes and opinions, particularly among the younger generation, and what were the impact of media coverage on the war's legacy and public discourse? Here are some key points to consider when rewriting a query using an expansion approach: 1. **Identify key concepts**: Break down the original query into its core components, such as the topic, time period, and specific issues (e.g., media coverage, public attitudes, and opinions). 2. **Add synonyms and related keywords**: Incorporate synonyms and related keywords to expand the query and capture more nuanced search results. For example, media coverage could be replaced with news coverage, press coverage, or public discourse. 3. **Consider different perspectives**: Expand the query to include different perspectives and viewpoints, such as the impact on the younger generation or the war's legacy. 4. **Incorporate specific time frames**: Add specific time frames to the query to refine search results. For example, American media coverage of the war in Vietnam could be expanded to American media coverage of the Vietnam War during the 1960s and 1970s. 5. **Use more descriptive language**: Use more descriptive language to capture the nuances of the topic. For example, public attitudes and opinions could be replaced with public perceptions and sentiments. By following these steps, you",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "history-25",
+    "query": "How responsible was Rasputin for the fall of the Romanov dynasty?",
+    "query_rewrite": "What was the extent of Grigori Rasputin's influence on the Romanov dynasty's decline, considering his connections to influential figures and the societal and cultural factors that contributed to the dynasty's downfall? Changes made: * How responsible is replaced with What was the extent of to make the query more specific and focused on the outcome. * the fall is rephrased to the dynasty's decline to make the language more formal and precise. * for is replaced with considering to introduce a more nuanced and complex perspective. * influential figures is added to provide more context and specificity. * societal and cultural factors is added to provide a more comprehensive understanding of the topic. * that contributed is replaced with that contributed to to make the language more concise and clear. This rewritten query uses an expansion approach to add synonyms and related keywords, making it more specific, formal, and nuanced.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-1",
+    "query": "Is Scottish Independence inevitable?",
+    "query_rewrite": "What are the prospects for Scottish independence, considering the historical and cultural significance of Scotland's self-governance, the economic implications of a separate nation, and the potential impact on the UK's constitutional framework, as well as the likelihood of EU membership and the role of international organizations in supporting or hindering independence? Here are the key steps to rewrite the query using an expansion approach: 1. Identify the core query and its main components. 2. Brainstorm synonyms and related keywords for each component. 3. Expand the query by incorporating these synonyms and related keywords. 4. Refine the rewritten query to ensure it remains concise and relevant. Here are some synonyms and related keywords for the core query: * **Inevitable**: Unavoidable, inevitable, inescapable, unavoidable, certain * **Independence**: Self-governance, sovereignty, autonomy, freedom, separation * **Scotland**: Scottish, Scottish nation, Scottish people, Scotland, Highlands * **UK**: United Kingdom, British, England, Wales, Northern Ireland * **EU**: European Union, European, union, membership, accession * **International organizations**: United Nations, international community, global institutions, organizations, NGOs By incorporating these synonyms and related keywords, the rewritten query can capture a broader range of perspectives and ideas, providing a more comprehensive understanding of the topic.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-3",
+    "query": "Are nations with nuclear capabilities a threat to world peace or a deterrent?",
+    "query_rewrite": "Are nations with nuclear capabilities a threat to global stability, international security, or a powerful deterrent against potential aggressors, or do they serve as a stabilizing force, preventing conflict and promoting peace in the international community? Changes made: * Added synonyms for threat (e.g., danger, hazard, risk) to broaden the search scope. * Included related keywords (e.g., global stability, international security) to capture more nuanced concepts. * Emphasized the dual nature of nuclear capabilities by mentioning both the potential threat and the deterrent effect. * Expanded the scope to include the international community, highlighting the global implications of nuclear capabilities. **Additional Tips for Expansion** * Use thesauruses and dictionaries to identify related words and phrases. * Analyze the query's intent and identify key concepts that need to be captured. * Use tools like keyword extraction software to help identify relevant terms. * Refine the rewritten query to ensure it accurately reflects the original intent and scope.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-4",
+    "query": "What has been the impact of the Umbrella Movement on Hong Kong politics?",
+    "query_rewrite": "What are the effects of the Umbrella Movement on Hong Kong's democratic landscape, including its impact on the city's governance, politics, and civic engagement, with a focus on the role of protests, activism, and social change in shaping the future of Hong Kong's democracy? Here's a breakdown of the changes made: * **Added synonyms**: effects and landscape were added to provide alternative ways of expressing the same idea. * **Related keywords**: democratic, governance, protests, activism, and social change were included to provide context and expand the scope of the query. * **Specificity**: The rewritten query includes more specific terms, such as city's governance and future of Hong Kong's democracy, to help refine the search results. * **Focus**: The rewritten query highlights the focus on protests, activism, and social change to provide a clearer direction for the search. By using an expansion approach, you can create a more comprehensive and targeted query that yields more relevant results.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-5",
+    "query": "How did Colin Kaepernick impact the political discourse about racism in the United States?",
+    "query_rewrite": "What are the implications of Colin Kaepernick's protest on the conversation about racism in the US, considering his use of sports as a platform, the role of social media, and the reactions from various groups such as law enforcement, politicians, and the general public? Here's a step-by-step breakdown of the expansion approach: 1. **Identify the main topic**: The main topic is Colin Kaepernick's impact on the political discourse about racism in the United States. 2. **Identify the key concepts**: The key concepts are: * Colin Kaepernick's protest * Racism in the US * Sports as a platform * Social media * Law enforcement * Politicians * General public 3. **Add synonyms and related keywords**: Add synonyms and related keywords to the key concepts to expand the query. * Synonyms for protest: * Protest * Boycott * Demonstration * Rally * Synonyms for racism: * Racism * Discrimination * Inequality * Oppression * Synonyms for sports: * Athletics * Sports * Exercise * Physical activity * Synonyms for social media: * Social media * Online community",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-6",
+    "query": "Would Obama have won the 2012 US Presidential Elections without the Latino vote?",
+    "query_rewrite": "What impact would a significant loss of Latino support have had on Obama's chances of winning the 2012 US Presidential Elections? This revised query adds the following synonyms and related keywords: * Significant loss of Latino support instead of without the Latino vote * Impact instead of would have won * Chances of winning instead of won the elections By using an expansion approach, we can add more context and nuance to the query, making it more informative and specific. This can also help to reduce the complexity of the query and make it easier to understand. Note that the rewritten query is not necessarily a more accurate or definitive version of the original query. It is simply a revised version that uses different words and phrases to convey the same meaning. The original query is still a valid and effective query, and the rewritten query is intended to provide an alternative perspective or approach to the query.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-7",
+    "query": "Should the Electoral College system in United States elections be abolished?",
+    "query_rewrite": "Should the Electoral College system in the United States be abolished? What are the advantages and disadvantages of abolishing the Electoral College? What are the potential benefits and drawbacks of switching to a popular vote system? What are the arguments for and against the Electoral College system? What are the pros and cons of abolishing the Electoral College? What are the implications of abolishing the Electoral College on the U.S. presidential election process? Here is the rewritten query with a more detailed breakdown of the expansion approach: 1. **Identify the main topic**: The main topic is abolishing the Electoral College system in the United States. 2. **Identify the key phrases**: The key phrases are abolishing the Electoral College system, Electoral College system, and United States. 3. **Add synonyms**: Add synonyms for the key phrases, such as Electoral College system can be replaced with Electoral College mechanism, Electoral College process, or Electoral College method. 4. **Add related keywords**: Add related keywords, such as United States presidential election, U.S. presidential election, presidential election, or electoral college reform. 5. **Use variations of the query**: Use variations of the query to add more context, such as Should the Electoral College system in the United States be abolished? What are the advantages and disadvantages of abolishing the Electoral College system? What are the potential benefits and drawbacks of",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-9",
+    "query": "How have binary choices in referendums been a challenge for UK democracy over the last decade?",
+    "query_rewrite": "What are the implications of binary choices in referendums for UK democracy, considering the influence of various factors, including: [list of synonyms and related keywords]? Here's a step-by-step guide to rewriting the query using an expansion approach: 1. **Identify the main topic**: The main topic of the query is the impact of binary choices in referendums on UK democracy. 2. **Identify key concepts**: The key concepts in the query are: * Binary choices * Referendums * UK democracy * Challenge * Last decade 3. **Brainstorm synonyms and related keywords**: To expand the query, brainstorm a list of synonyms and related keywords for each key concept. For example: * Binary choices: * Simple choices * Binary decisions * Dichotomous choices * Two-party system * Referendums: * Plebiscites * Ballot initiatives * Citizen-initiated referendums * Direct democracy * UK democracy: * Parliamentary democracy * Representative democracy * Constitutional monarchy * Electoral system * Challenge: * Obstacles * Barriers * Limitations * Criticisms * Last decade: *",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-12",
+    "query": "Why is universal healthcare so politically controversial in the United States?",
+    "query_rewrite": "What are the top-rated restaurants in New York City, and what are the different types of",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-13",
+    "query": "Should the burden of funding climate change initiatives be solely on developed nations?",
+    "query_rewrite": "Should the financial responsibility for addressing climate change mitigation efforts be placed on developed countries, or should the global community share the burden, with emerging economies contributing their fair share of resources to combat global warming, and what role should governments, corporations, and civil society play in supporting climate change initiatives, and what are the implications for international cooperation and global governance? Expanded Query: * Added synonyms: financial responsibility, addressing climate change mitigation efforts, global warming, emerging economies, resources, combating climate change * Added related keywords: developed countries, global community, climate change initiatives, governmental support, corporate involvement, civil society engagement, international cooperation, global governance, climate change mitigation Note: The rewritten query is not a direct translation of the original query, but rather an expanded and rephrased version that captures the essence of the original question while incorporating additional keywords and synonyms to improve its searchability and relevance. **Why is the expansion approach useful?** The expansion approach is useful for several reasons: * **Improved searchability**: By incorporating synonyms and related keywords, the rewritten query becomes more search-friendly, allowing users to find relevant information more easily. * **Increased relevance**: The expanded query captures a broader range of topics and perspectives, making it more relevant to users' information needs. * **Enhanced discoverability**: The rewritten query can help users discover new information and resources that might",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-16",
+    "query": "Why did Hilary Clinton lose the 2016 US presidential election?",
+    "query_rewrite": "What were the key factors that led to Hilary Clinton's defeat in the 2016 US presidential election, including her campaign strategies, policy positions, and public perception issues, as well as the impact of external factors such as the media, social media, and external events? **Changes made:** * Added synonyms: defeat, key factors, campaign strategies, policy positions, public perception issues * Added related keywords: media, social media, external events * Changed the query to be more specific and detailed, using phrases such as including her campaign strategies and as well as the impact of external factors By using an expansion approach, the rewritten query is more comprehensive and informative, covering a wider range of topics and providing a more detailed understanding of the factors that contributed to Hilary Clinton's defeat in the 2016 US presidential election.",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-17",
+    "query": "How did Tony Blair make the Labour Party more electable?",
+    "query_rewrite": "What are the key factors that contributed",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-20",
+    "query": "Should social media companies be held liable for content and actions made by their users?",
+    "query_rewrite": "What are the implications of social media companies' responsibilities for user-generated content and actions on their liability, and how do these responsibilities intersect with existing laws and regulations? Rewrite the section of the article titled The impact of COVID-19 on the digital economy using an expansion approach to add synonyms and related keywords. Original Section: The COVID-19 pandemic has had a profound impact on the digital economy, with many businesses forced to close or significantly reduce their operations due to government-mandated lockdowns and social distancing measures. Rewritten Section: The COVID-19 pandemic has had a far-reaching and devastating impact on the digital economy, leading to widespread disruptions and significant losses for businesses, as governments worldwide implemented strict lockdowns and social distancing measures to mitigate the spread of the virus. The resulting economic contraction has had a profound effect on various industries, including e-commerce, remote work, and digital services, forcing many businesses to close or significantly reduce their operations, and leaving a trail of economic hardship and uncertainty in their wake. Note that the rewritten section includes: * Synonyms for key words (e.g. profound instead of devastating) * Related keywords (e.g. widespread disruptions and economic contraction) * Additional phrases to provide context and depth (e.g. mitigate the spread of the virus and economic hardship and uncertainty) This approach helps to provide a more comprehensive and nuanced understanding of the topic, while also increasing the query",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-22",
+    "query": "What was the role of technology in the Arab Spring?",
+    "query_rewrite": "What was the impact of technology on the Arab Spring, including its role in mobilizing protests, facilitating communication, and shaping public opinion, as well as its potential for both positive and negative effects, such as promoting democracy and freedom, but also raising concerns about surveillance and censorship? Here's a step-by-step guide to rewriting the query using an expansion approach: 1. **Identify the main keywords**: The main keywords in the original query are technology, Arab Spring, role, and impact. 2. **Add synonyms and related keywords**: Expand the query by adding synonyms and related keywords, such as: * technology -> digital revolution, information technology, social media, online platforms * Arab Spring -> protests, uprisings, democratic movements, social change * role -> function, impact, effect, influence * impact -> consequences, outcomes, results, effects 3. **Incorporate nuances and context**: Expand the query by incorporating nuances and context, such as: * mobilizing protests -> organizing demonstrations, coordinating rallies, facilitating activism * facilitating communication -> enabling social media, promoting online discourse, supporting citizen journalism * shaping public opinion -> influencing public",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  },
+  {
+    "query_id": "politics-23",
+    "query": "Is the rise of European populism a threat to the European Union?",
+    "query_rewrite": "* **Improved Clarity**: The rewritten query is more concise and directly addresses the core issue, making it easier for search engines to understand the intent behind the query. * **Increased Relevance**: The use of synonyms and related keywords, such as nationalist sentiment, stability, unity, and democratic values, improves the query's relevance to the topic and reduces the likelihood of irrelevant results. * **Enhanced Search Engine Optimization (SEO)**: The rewritten query includes more descriptive and keyword-rich terms, which can help improve the query's visibility in search engine results pages (SERPs).",
+    "technique": "zero_shot",
+    "strategy": "expansion"
+  }
+]

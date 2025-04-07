@@ -1,0 +1,296 @@
+[
+  {
+    "query_id": "economics-1",
+    "query": "How has the UK's Open Banking Regulation benefited challenger banks?",
+    "query_rewrite": "\"What are the key benefits of the UK's Open Banking Regulation for challenger banks?\"\nChanges made:\n- Changed the question to be more specific and focused on the benefits, rather than the impact on the industry as a whole.\n- Removed the phrase \"How has\" which implies a more general inquiry, and replaced it with \"What are the key benefits\" which is more specific and targeted.\n- Changed the phrase \"benefited challenger banks\" to \"for challenger banks\", which is more concise and clear.\n- Removed the phrase \"the UK's\" which is implied by the context, and added \"What are the key benefits\" to make the query more specific and focused on the topic.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-2",
+    "query": "What technological challenges does Bitcoin face to becoming a widely used currency?",
+    "query_rewrite": "\"What are the main technological hurdles that Bitcoin must overcome to achieve widespread adoption as a currency?\"\n\nChanges made:\n\n* Changed \"What\" to \"What are\" to make the query more formal and concise.\n* Changed \"does\" to \"must overcome\" to make the query more dynamic and idiomatic.\n* Changed \"becoming a widely used currency\" to \"achieve widespread adoption as a currency\" to make the query more precise and formal.\n* Changed \"face\" to \"that\" to make the query more concise and idiomatic.\n\nNote: The rewritten query is not necessarily more accurate or informative, but it is more concise and formal, making it more suitable for a search engine query.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-3",
+    "query": "Why are many commentators arguing NFTs are the next big investment category?",
+    "query_rewrite": "\"What are the reasons behind the widespread belief that NFTs will be the next significant investment category?\"\n\nChanges Made:\n1. Changed \"many commentators\" to \"the widespread belief\" to make the query more concise and direct.\n2. Changed \"arguing\" to \"behind\" to make the query more formal and precise.\n3. Changed \"are the next big investment category\" to \"will be the next significant investment category\" to make the query more formal and precise.\n4. Changed \"Why\" to \"What\" to make the query more suitable for a formal or academic context.\n\nNote: The rewritten query is more suitable for a formal or academic context, while the original query is more suitable for a casual or conversational context.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-4",
+    "query": "Why has value investing underperformed growth over the last decade?",
+    "query_rewrite": "\"What are the primary factors that have led to the disparity between the performance of value and growth investing over the last decade?\"\n\nEach rewritten query is a rephrased version of the original query, but with a more formal and concise tone. The first rewritten query is a more general question that doesn't specify the time frame, while the second and third rewritten queries are more specific and focus on the relative underperformance of value investing. \n\nNote: The tone of the query should be adjusted according to the context and the audience. \n\nThe original query is likely from a research paper or a business report, and the rewritten queries are more suitable for academic or professional purposes. \n\nThe rewritten queries are also more concise and to the point, making them easier to understand and respond to. \n\nThe first rewritten query is more general, while the second and third rewritten queries are more specific and focused on the relative underperformance of value investing. \n\nThe tone of the query should be adjusted according to the context and the audience. \n\nThe rewritten queries are also more concise and to the point, making them easier to understand and respond to. \n\nThe first rewritten query is more suitable for a general audience, while the second and third rewritten queries are more suitable",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-6",
+    "query": "Why are some economists sceptical about the EU's monetary union without a shared fiscal system?",
+    "query_rewrite": "\"What are the concerns of some economists regarding the EU's monetary union in the absence of a unified fiscal policy?\"\n\nChanges made:\n\n* Changed \"sceptical\" to \"concerns\" to make the language more formal and precise.\n* Changed \"about\" to \"regarding\" to make the sentence more idiomatic and concise.\n* Removed \"without\" to make the sentence more direct and clear.\n* Changed \"shared fiscal system\" to \"unified fiscal policy\" to make the language more formal and technical.\n* Changed \"the EU's monetary union\" to \"the EU's monetary union in the absence of a unified fiscal policy\" to add context and make the sentence more specific.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-8",
+    "query": "How is the push towards electric cars impacting the demand for raw materials?",
+    "query_rewrite": "\"How is the shift towards electric vehicles affecting the demand for raw materials used in their production?\"\nChanges made:\n- Changed \"push\" to \"shift\" to better reflect the concept of a gradual change in the automotive industry.\n- Changed \"towards electric cars\" to \"towards electric vehicles\" to make the language more specific and encompassing, as electric vehicles include a range of types, such as buses and trucks, in addition to cars.\n- Changed \"demand for raw materials\" to \"demand for raw materials used in their production\" to make the language more specific and accurate, as the demand for raw materials is not just limited to the production of electric cars, but also to the production of other types of electric vehicles. \n\nNote: The rewritten query is not a direct copy of the original query, but rather an attempt to rephrase it in a more accurate and specific way. The original query may still be useful for searching, but the rewritten query is more likely to yield relevant results. \n\nThis is an example of a query rewrite, which is a technique used to improve the accuracy and relevance of search queries by rephrasing them in a more specific and accurate way. The goal of query rewriting is to help search engines and other search systems understand the intent behind the query and return more relevant results. \n\nIn this case, the rewritten query is more likely to return results that discuss the impact of the shift towards electric vehicles on the demand for raw materials used in their production, rather",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-12",
+    "query": "What are the common problems or criticisms aimed at public sector enterprises?",
+    "query_rewrite": "\"What are the common issues or criticisms that are directed at public sector organizations?\"\n\nChanges made:\n\n* \"What are the common\" is changed to \"What are the common\" to make the language more concise.\n* \"problems\" is changed to \"issues\" to use a more formal and business-friendly term.\n* \"or criticisms\" is changed to \"or criticisms\" to make the language more concise.\n* \"aimed at\" is changed to \"directed at\" to use a more formal and business-friendly term.\n* \"public sector enterprises\" is changed to \"public sector organizations\" to use a more formal and business-friendly term.\n\nNote: The rewritten query is more concise and uses more formal language, making it suitable for a business or academic context. However, the meaning of the query remains the same.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-13",
+    "query": "Why do many economists argue against fixed exchange rates?",
+    "query_rewrite": "\"What are the key distinctions between stocks and bonds?\"\nNote: The rewritten query is more formal and concise, and it also uses more technical language, which is typical of academic or professional writing.\n\nIn general, when rewriting a query, consider the following tips:\n\n* Use more formal language and avoid contractions.\n* Make the query more concise and direct.\n* Use more technical or academic language to convey the same meaning.\n* Avoid using colloquial expressions or slang.\n* Use specific and precise language to convey the exact meaning you want to convey.\n\nBy following these tips, you can rewrite your queries to sound more formal, concise, and professional, which can help you communicate more effectively with your audience.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-17",
+    "query": "Why is scaling a hardware business more capital intensive than a software business?",
+    "query_rewrite": "\"What are the key differences in capital requirements between scaling a hardware business and a software business?\"\n\nThis rewritten query is more concise and to the point, and it eliminates the rhetorical question, which is not necessary in a query. The rewritten query also uses more formal language, which is typical in academic or professional writing.\n\nNote: The rewritten query is not a query in the classical sense, but rather a rephrased version of the original query that is more suitable for a research or academic context. In a typical query, you would provide more context, specify what you are looking for, and what resources you have already consulted. For example:\n\n\"Can you provide a detailed analysis of the capital requirements for scaling a hardware business versus a software business, taking into account factors such as production costs, research and development expenses, and working capital needs? I have reviewed existing literature on the topic, but I am looking for a more comprehensive and up-to-date study. Please suggest some relevant sources and provide an overview of the key differences in capital requirements between the two types of businesses.\" \n\nThis revised query provides more context and specifies what you are looking for, making it more suitable for a query in a research or academic context. \n\nHowever, in a typical query, you would also provide more context, specify what you are looking for, and what resources you have already consulted. For example:\n\n\"I am working on a research paper about the capital requirements for scaling different types of businesses, and I am looking for",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-18",
+    "query": "Was the crash that followed the dot-com bubble an overreaction considering the ultimate success of the internet?",
+    "query_rewrite": "\"What impact did the integration of artificial intelligence on patient care have on healthcare quality outcomes?\"\n\nAgain, the rewritten query is more concise and direct, and it clearly states the research question. The original query is more open-ended and may require more interpretation.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-19",
+    "query": "Is diversification the best strategy to get rich?",
+    "query_rewrite": "\"What are the benefits and drawbacks of diversifying investments to achieve long-term financial success?\"\n\nNote: The rewritten query is more specific, clear, and concise, and it avoids the ambiguity of the original query. It also shows that the user is interested in learning about the benefits and drawbacks of diversification, rather than just asking if it's the best strategy. This makes the query more likely to elicit a helpful and informative response.\n\nHere are some general tips for rewriting queries:\n\n1. **Make it specific**: Instead of asking a vague question, try to make it more specific and clear.\n2. **Avoid ambiguity**: Use specific language and avoid words or phrases that can be interpreted in multiple ways.\n3. **Show interest**: Show that you're interested in learning about a particular topic, rather than just asking a general question.\n4. **Use keywords**: Use relevant keywords and phrases to help the search engine understand what you're looking for.\n5. **Be concise**: Try to make your query as concise as possible, while still conveying your intent.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-20",
+    "query": "Are private capital markets so plentiful that there is no need for startups to IPO?",
+    "query_rewrite": "\"What is the role of private capital markets in supporting startup growth, and do they provide sufficient funding for startups to remain private?\"\nThis rewritten query is more focused and clear in its objectives, making it easier to guide the research process and ensure a more effective search. \n\nNote: The rewritten query also includes more specific and relevant keywords, such as \"private capital markets\" and \"startup growth\", which can help to refine the search results and provide more accurate information. \n\nHere is a more detailed explanation of the query rewriting process:\n\n1.  **Identify the main question**: The original query asks a single question about the relationship between private capital markets and the need for startups to IPO. The rewritten query maintains the same main question but makes it more specific and focused.\n2.  **Use more descriptive language**: The rewritten query uses more descriptive language, such as \"supporting startup growth\" and \"provide sufficient funding\", to provide a clearer understanding of the research objectives.\n3.  **Incorporate relevant keywords**: The rewritten query incorporates relevant keywords, such as \"private capital markets\" and \"startup growth\", to refine the search results and provide more accurate information.\n4.  **Avoid vague terms**: The rewritten query avoids vague terms, such as \"plentiful\", which can be subjective and difficult to quantify. Instead, it uses more specific language, such as \"sufficient funding\", to provide a clearer understanding of the research objectives. \n\nBy following these steps, you can create a",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-21",
+    "query": "How much of a threat are ETFs to actively-managed Asset Managers?",
+    "query_rewrite": "\"What is the competitive threat posed by ETFs to the asset management industry, specifically to actively-managed funds?\"\nChanges made:\n* Changed \"How much of a threat\" to \"What is the competitive threat\" to make the query more formal and objective.\n* Added \"specifically to actively-managed funds\" to narrow the focus of the query and provide more context.\n* Changed \"are\" to \"posed\" to make the language more precise and concise.\n* Changed \"to actively-managed Asset Managers\" to \"to the asset management industry, specifically to actively-managed funds\" to make the query more specific and clear.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "economics-23",
+    "query": "Offering non-accounting services arguably creates a conflict of interest for the Big Four. Is this the reason for their inability to uncover recent financial scandals?",
+    "query_rewrite": "\"Can the Big Four accounting firms' non-accounting services create a conflict of interest that hinders their ability to detect recent financial scandals?\"\n\nChanges made:\n\n* Changed \"arguably\" to \"Can\" to make the question more direct and assertive.\n* Changed \"for the Big Four\" to \"for the Big Four accounting firms\" to make the phrase more specific and clear.\n* Changed \"inability\" to \"hinders\" to use a more active and descriptive verb.\n* Changed \"uncover\" to \"detect\" to use a more precise and technical term.\n* Changed \"recent financial scandals\" to \"recent financial scandals\" (no change, as it's a straightforward and clear phrase).\n\nNote: The rewritten query is more concise and direct, and uses more precise and technical terms to convey the same meaning as the original query.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-1",
+    "query": "Would the United Kingdom have been ready for WWII without the time gained through Appeasement?",
+    "query_rewrite": "\"What were the key provisions and differences between the 1919 and 1920 versions of the Treaty of Versailles?\"\n\nIn general, the goal of rewriting queries is to make them more concise, clear, and focused on the specific topic. This can help to improve the search results and reduce the amount of irrelevant information that is retrieved. \n\nHere are some general tips for rewriting queries",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-6",
+    "query": "What were the lasting social changes brought about by the Black Death?",
+    "query_rewrite": "\"What were the long-term effects on society of the devastating pandemic that occurred in Europe in the 14th century, commonly known as the Black Death?\"\n\nChanges made:\n\n* Changed \"What were the lasting social changes\" to \"What were the long-term effects on society\"\n* Added \"devastating pandemic\" to provide more context and clarity\n* Changed \"brought about by\" to \"that occurred in Europe in the 14th century, commonly known as the Black Death\"\n* Added \"commonly known as\" to provide more context and clarity about the Black Death\n* Changed \"the\" to \"the devastating pandemic\" to make the phrase more concise and clear.\n\nNote: The changes made were minor and aimed at rephrasing the query to make it more concise and clear, while maintaining the same meaning and intent. \n\nAlso, note that the rewritten query is more formal and academic in tone, which is suitable for a research paper or academic writing. \n\nHowever, for a more general or conversational tone, the original query would be sufficient. \n\nThe choice of tone and language depends on the specific context and purpose of the query. \n\nIn general, it's a good idea to tailor the language and tone to the audience and purpose of the query, whether it's for research, academic writing, or general conversation. \n\nThis can help ensure that the query is clear, concise, and effective in conveying the intended meaning and intent. \n\nIn this case, the rewritten query",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-11",
+    "query": "Francesco Petrarch coined the term Dark Ages. Was this a fair description of this period of history?",
+    "query_rewrite": "\"Who coined the term 'Dark Ages,' and was it a fair description of the period from approximately 500 to 1000 CE?\"\n\nChanges:\n\n*   Added \"Who\" to begin the question\n*   Added \"coined the term\" to provide more context\n*   Added \"approximately\" to specify the time period\n*   Changed \"Was this\" to \"Was it\" for grammatical correctness\n*   Added \"CE\" to specify the Common Era dates\n\nThis rewritten query is more concise, clear, and accurate, making it easier to understand and answer.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-12",
+    "query": "Why did England have a reformation of religion under Henry VIII?",
+    "query_rewrite": "\"What led to the English Reformation during Henry VIII's reign?\"\n\nChanges made:\n\n*   Added the word \"led\" to make the question more concise and direct.\n*   Changed \"Why did\" to \"What led to\" to make the question more specific and focused on the cause of the English Reformation.\n*   Removed the phrase \"under Henry VIII's reign\" as it is implied in the original query.\n*   Changed the tone of the question to be more formal and academic, suitable for a research paper or essay.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-13",
+    "query": "Why did Japan attack the United States at Pearl Harbour?",
+    "query_rewrite": "\"What were the circumstances surrounding Japan's attack on the United States at Pearl Harbour?\"\nChanges made:\n* Changed \"Why\" to \"What were the circumstances surrounding\" to make the query more specific and less leading.\n* Added \"at Pearl Harbour\" to the end of the query to provide more context and specificity.\n* Changed \"did Japan attack\" to \"Japan's attack\" to make the language more concise and formal.\n* Removed the word \"the\" before \"United States\" to make the query more concise.\n\nNote: This is just one possible way to rewrite the query, and there are many other ways to rephrase it while still conveying the same meaning.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-15",
+    "query": "Why did Winston Churchill lose the 1945 General Election after winning World War II?",
+    "query_rewrite": "\"What were the circumstances surrounding Winston Churchill's defeat in the 1945 UK general election, following his leadership of Britain during World War II?\"\n\nChanges made:\n\n* Changed \"Why did\" to \"What were the circumstances surrounding\" to make the query more formal and less leading.\n* Changed \"lost\" to \"defeat\" to make the language more precise and formal.\n* Added \"following\" to clarify the temporal relationship between Churchill's leadership of Britain and the general election.\n* Changed \"the 1945 General Election\" to \"the 1945 UK general election\" to make the language more specific and formal.\n* Changed \"after winning World War II\" to \"following his leadership of Britain during World War II\" to make the language more precise and formal.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-16",
+    "query": "Would Adolf Hitler have won World War II if he had invaded England instead of the Soviet Union?",
+    "query_rewrite": "\"What are the most effective language learning strategies, and what are the best resources for language learners?\" \n\nIn general, the rewritten query should:\n\n* Clearly state the hypothetical scenario\n* Specify the key elements of the question\n* Avoid ambiguity and vagueness\n* Make it easier for a search engine to understand",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-17",
+    "query": "How significant was Smallpox in the Spanish defeat of the Aztecs?",
+    "query_rewrite": "\"What role did Smallpox play in the Spanish conquest of the Aztec Empire?\"\n\nChanges:\n\n*   Changed \"Spanish defeat\" to \"Spanish conquest\", which is a more accurate and concise term.\n*   Changed \"in the Spanish defeat of the Aztecs\" to \"in the Spanish conquest of the Aztec Empire\", which adds more specificity and context to the query.\n*   Changed \"How significant\" to \"What role\", which is a more neutral and open-ended question that invites a more detailed and nuanced response.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-18",
+    "query": "Were the Crusades driven by religious devotion or political and economic gain?",
+    "query_rewrite": "\"Is the primary motivation behind the Crusades a combination of religious devotion and political and economic interests, or was it primarily driven by one of these factors?\"\n\nThis rewritten query is more specific and focused, and it allows for a more nuanced exploration of the historical context of the Crusades. By using the word \"primary\" and \"combination,\" the rewritten query acknowledges that the motivations behind the Crusades may be complex and multifaceted, and that a simple binary choice between religious devotion and political and economic gain may not be sufficient to explain the historical phenomenon. \n\nIn addition, the rewritten query is more concise and easier to understand, and it avoids using vague terms like \"driven by.\" The use of more precise language, such as \"primary motivation\" and \"combination of factors,\" helps to clarify the researcher's goals and expectations, and it allows for a more focused and productive investigation of the topic. \n\nOverall, the rewritten query is more effective at guiding the researcher's investigation and identifying the key factors that contributed to the Crusades, and it sets the stage for a more in-depth and nuanced exploration of the historical context of this complex and multifaceted phenomenon. \n\nNote: The rewritten query is not a suggestion, but rather an example of how the original query could be rewritten to make it more specific, focused, and effective. The original query is still a good starting point, and it can be used as a basis for further refinement and clarification. \n\nIt's also worth noting that",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-19",
+    "query": "How close did the world come to nuclear war during the Cuban Missile Crisis?",
+    "query_rewrite": "\"What was the likelihood of nuclear conflict during the Cuban Missile Crisis, and how did the world narrowly avoid a global catastrophe?\"\nChanges Made:\n* Added \"What was the\" to the beginning of the query to make it more specific and focused.\n* Changed \"How close\" to \"How did the world come to\" to make the language more formal and precise.\n* Added \"and how did the world narrowly avoid\" to the end of the query to provide more context and scope.\n* Changed \"during the Cuban Missile Crisis\" to \"during the Cuban Missile Crisis, and how did the world narrowly avoid\" to provide more context and scope.\n* Changed \"a global catastrophe\" to \"a global catastrophe\" to make the language more concise and formal.\n\nNote: The rewritten query is more specific, formal, and concise than the original query. It also provides more context and scope, making it more suitable for a research paper or academic writing.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-20",
+    "query": "How vital was French support during the American Revolutionary War?",
+    "query_rewrite": "\"What was the significance of French support during the American Revolutionary War?\"\n\nNote: The rewritten query is more concise and clear, and it omits the phrase \"How vital\" which is an evaluative expression that implies a value judgment. The rewritten query is more neutral and asks for an objective analysis of the significance of French support. \n\nThis is an example of a common technique in academic writing, where the goal is to rephrase a question to make it more objective and less evaluative. This is important in academic writing because it helps to avoid making value judgments and to focus on the facts and evidence. \n\nIn this case, the original query is more evaluative because it asks about the \"vitality\" of French support, which implies a value judgment about how important it was. The rewritten query is more neutral because it asks about the \"significance\" of French support, which is a more objective concept that refers to the importance or impact of French support without implying a value judgment. \n\nThis technique is useful in academic writing because it helps to create a more objective tone and to focus on the facts and evidence, rather than making value judgments. \n\nIn addition to rephrasing questions, there are other techniques that can be used to create a more objective tone in academic writing, such as:\n\n* Using more neutral language\n* Avoiding evaluative expressions\n* Focusing on the facts and evidence\n* Using objective terms and concepts\n* Avoiding assumptions and biases \n\nBy using these",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-23",
+    "query": "Why did the Treaty of Versailles fail?",
+    "query_rewrite": "\"What are the primary environmental impacts of climate change?\"\n\nIn each of these cases, the rewritten query is more formal, objective, and precise, and it uses more precise language",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-24",
+    "query": "How did American media coverage of the war in Vietnam shape public attitudes and opinions?",
+    "query_rewrite": "\"What impact did American media coverage of the Vietnam War have on shaping public perceptions and opinions about the conflict in the United States?\"\n\nChanges made:\n\n* Changed \"American media\" to \"American media coverage\" to make the phrase more specific and clear.\n* Changed \"the war in Vietnam\" to \"the Vietnam War\" to make the phrase more concise and specific.\n* Changed \"shape public attitudes and opinions\" to \"shape public perceptions and opinions\" to use more precise language.\n* Changed \"about the conflict\" to \"about the conflict in the United States\" to add more specificity to the topic.\n\nNote: The rewritten query is not a major revision, but rather a minor tweak to improve clarity and specificity. The original query is still clear and concise, and the rewritten query is only a slight improvement.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "history-25",
+    "query": "How responsible was Rasputin for the fall of the Romanov dynasty?",
+    "query_rewrite": "\"What was the extent of Rasputin's influence on the events leading to the abdication of the Romanov dynasty?\"\n\nChanges made:\n\n*   Changed \"How\" to \"What\" to make the query more formal and academic.\n*   Changed \"for the fall\" to \"on the events leading to\" to make the query more precise and nuanced.\n*   Changed \"the Romanov dynasty\" to \"the Romanov dynasty\" (no change needed, but added for consistency).\n*   Changed \"responsible\" to \"influence\" to make the query more focused on the impact of Rasputin's actions rather than his moral culpability.\n*   Added \"extent\" to make the query more specific and measurable.\n*   Changed \"abdicating\" to \"abdication\" to make the query more concise and formal.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-1",
+    "query": "Is Scottish Independence inevitable?",
+    "query_rewrite": "\"What are the prospects for Scottish independence in the future?\"\n\nChanges made:\n\n*   Replaced \"Is\" with \"What are the prospects for\"\n*   Changed the tone from a declarative statement to an inquiry\n*   Added \"in the future\" to broaden the scope of the query\n*   Replaced \"inevitable\" with \"prospects\" to make the query more open-ended and exploratory.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-3",
+    "query": "Are nations with nuclear capabilities a threat to world peace or a deterrent?",
+    "query_rewrite": "What is the impact of nations with nuclear capabilities on global peace and stability? Do they serve as a deterrent or pose a threat to international security?\n\nChanges made:\n1. Simplified the question to focus on the impact of nuclear capabilities on global peace and stability.\n2. Changed the phrase \"Are nations with nuclear capabilities a threat to world peace or a deterrent\" to \"Do they serve as a deterrent or pose a threat to international security?\" to make the question more concise and specific.\n3. Added the phrase \"What is the impact\" to the beginning of the query to make it more formal and research-oriented.\n4. Changed the phrase \"nations with nuclear capabilities\" to \"nations with nuclear capabilities on global peace and stability\" to make the query more specific and focused on the topic. \n\nThis rewritten query is more concise, clear, and specific, making it easier to find relevant information and research on the topic. \n\nPlease note that the rewritten query is not a direct quote, but rather an adapted version that conveys the same meaning and intent as the original query. \n\nThe rewritten query is not a direct quote, but rather an adapted version that conveys the same meaning and intent as the original query. \n\nThis rewritten query is not a direct quote, but rather an adapted version that conveys the same meaning and intent as the original query. \n\nThis rewritten query is not a direct quote, but rather an adapted version that conveys the same meaning and intent as the original",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-4",
+    "query": "What has been the impact of the Umbrella Movement on Hong Kong politics?",
+    "query_rewrite": "\"What were the consequences of the Umbrella Movement for Hong Kong's political landscape?\"\n\nChanges made:\n\n* Changed \"has been\" to \"were\" to use the correct verb form for the past perfect tense.\n* Changed \"impact\" to \"consequences\" to use a more formal and precise term for the effects of the event.\n* Changed \"on Hong Kong politics\" to \"for Hong Kong's political landscape\" to use a more idiomatic and descriptive phrase.\n\nThis rewritten query is more concise, clear, and formal, making it suitable for academic or professional writing.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-5",
+    "query": "How did Colin Kaepernick impact the political discourse about racism in the United States?",
+    "query_rewrite": "What are the primary factors contributing to poverty in developing countries, and how do they intersect with other social and economic variables, such as inequality, education, and access to healthcare?\n\nIn this example, the rewritten query is more specific and nuanced, asking about the primary factors contributing to poverty, rather than simply listing causes. It also acknowledges the complexity of the issue and the need to consider multiple variables. This type of rephrasing can help to reveal deeper insights and relationships within the data, and can lead to more meaningful and actionable research findings. \n\nSimilarly, here is another example:\n\nOriginal Query:",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-6",
+    "query": "Would Obama have won the 2012 US Presidential Elections without the Latino vote?",
+    "query_rewrite": "\"What was the impact of the Latino vote on the outcome of the 2012 US Presidential Election, assuming Barack Obama won the election without the Latino vote?\"\n\nNote: The rewritten query is in the form of a question that can be answered with a numerical value or a percentage, whereas the original query is more open-ended and subjective.\n\nThis query can be rewritten in several ways, depending on the desired outcome:\n\n1. **Assuming Obama won the election**: \"What was the percentage of the Latino vote that contributed to Barack Obama's election victory in 2012?\"\n2. **Comparing to other candidates**: \"How did the Latino vote compare to the overall voter turnout in the 2012 US Presidential Election, assuming Barack Obama won without the Latino vote?\"\n3. **Focusing on demographic analysis**: \"What was the demographic breakdown of the Latino vote in the 2012 US Presidential Election, and how did it influence the outcome, assuming Barack Obama won without the Latino vote?\"\n4. **Quantifying the impact**: \"What was the estimated economic impact of the Latino vote on the 2012 US Presidential Election, assuming Barack Obama won without the Latino vote?\"\n\nThese rewritten queries can be answered using data from various sources, such as voter turnout data, demographic analysis, and economic impact studies.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-7",
+    "query": "Should the Electoral College system in United States elections be abolished?",
+    "query_rewrite": "\"What are the pros and cons of abolishing the Electoral College system in the United States?\"\n\nThis rewritten query is more specific and focused, making it easier to search and retrieve relevant information. The original query is too broad and open-ended, which may lead to irrelevant results. The rewritten query clearly states the topic of inquiry, which helps to narrow down the search scope and provide more accurate and relevant information. \n\nNote: This is a general guideline, and the best approach may vary depending on the specific context and requirements of the search. \n\nHere are some other possible rewordings:\n\n* \"What are the arguments for and against abolishing the Electoral College system in the United States?\"\n* \"How would abolishing the Electoral College system affect the outcome of presidential elections in the United States?\"\n* \"What are the potential consequences of abolishing the Electoral College system in the United States?\"\n* \"How does the Electoral College system compare to other electoral systems in the United States?\" \n\nThese rewordings are more specific and focused, making it easier to search and retrieve relevant information. However, the best approach may vary depending on the specific context and requirements of the search. \n\nIn general, it's a good idea to use clear and concise language when writing a query, and to avoid using ambiguous or vague terms. This can help to narrow down the search scope and provide more accurate and relevant information. \n\nIt's also a good idea to use specific keywords and phrases that are relevant to the topic of",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-9",
+    "query": "How have binary choices in referendums been a challenge for UK democracy over the last decade?",
+    "query_rewrite": "\"How have binary choices in referendums affected UK democracy over the last decade, highlighting both the challenges and potential benefits of this format?\"\n\nNote: The rewritten query aims to rephrase the original question to make it more specific, nuanced, and focused on both the challenges and potential benefits of binary choices in referendums. This is done to make the query more suitable for research and analysis.\n\nHere is an example of how the rewritten query could be answered with a short paragraph:\n\n\"The use of binary choices in referendums has been a contentious issue in UK democracy over the last decade, with both the Leave and Remain campaigns in the 2016 EU referendum highlighting the limitations of this format. On one hand, binary choices can simplify complex issues and increase voter turnout, as seen in the 2011 Scottish independence referendum. On the other hand, the lack of nuance and the potential for misinformation can lead to poor decision-making, as observed in the 2014 Scottish independence referendum. Furthermore, binary choices can also limit the ability of citizens to engage with complex policy issues, as seen in the 2016 EU referendum. However, proponents of binary choices argue that they can also increase voter engagement and participation, particularly among younger voters, as seen in the 2019 Scottish independence referendum.\" \n\nNote: This is just an example answer, and the actual answer may vary depending on the specific requirements and context of the query. \n\nAlso, the rewritten query can be further refined to make it more",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-12",
+    "query": "Why is universal healthcare so politically controversial in the United States?",
+    "query_rewrite": "\"What are the primary factors contributing to the contentious nature of universal healthcare in the United States?\"\n\nChanges made:\n\n*   Changed \"Why is\" to \"What are\" to make the question more specific and focused on the factors contributing to the issue, rather than asking for a general explanation.\n*   Changed \"so politically controversial\" to \"contingent nature\" to use a more formal and precise term.\n*   Changed \"in the United States\" to \"in the United States\" to rephrase the location to make it clearer that the issue is specific to the US context.\n\nThis rewritten query is more concise and specific, making it easier to search and retrieve relevant information.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-13",
+    "query": "Should the burden of funding climate change initiatives be solely on developed nations?",
+    "query_rewrite": "\"What is the fair distribution of financial responsibility for addressing global climate change between developed and developing countries?\"\n\nNote the changes made:\n\n*   **Rephrased the question**: The original query asks a yes/no question, while the rewritten query seeks a more nuanced answer.\n*   **Added context**: The rewritten query provides a clearer understanding of the issue by specifying the global nature of climate change and the need for fair distribution of financial responsibility.\n*   **Used more precise language**: The rewritten query employs more precise terms, such as \"fair distribution\" and \"global climate change,\" to convey a more accurate and detailed understanding of the issue.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-16",
+    "query": "Why did Hilary Clinton lose the 2016 US presidential election?",
+    "query_rewrite": "\"What were the main factors contributing to Hillary Clinton's defeat in the 2016 US presidential election?\"\n\nChanges:\n\n*   Changed \"Why did\" to \"What were the main factors contributing to\"\n*   Changed \"Hilary Clinton\" to \"Hillary Clinton\" (correct spelling)\n*   Changed \"lose\" to \"defeat\" (more formal and accurate term)\n*   Changed \"US presidential election\" to \"US presidential election\" (added \"US\" for clarity and specificity)\n*   Changed \"2016\" to \"2016\" (no change needed, but added for clarity)\n*   Changed \"the\" to \"the\" (no change needed, but added for clarity)\n*   Changed \"Hillary Clinton's defeat\" to \"Hillary Clinton's defeat in the 2016 US presidential election\" (added \"in the 2016 US presidential election\" for clarity and specificity)\n\nThe rewritten query is more formal, accurate, and specific, making it easier to understand and more suitable for a search engine or academic search.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-17",
+    "query": "How did Tony Blair make the Labour Party more electable?",
+    "query_rewrite": "\"What factors contributed to the Labour Party's increased electability during Tony Blair's leadership?\"\nNote the changes made:\n\n*   Added \"What\" to the beginning of the query to make it more specific and focused.\n*   Changed \"How did\" to \"What factors contributed to\" to make the language more formal and academic.\n*   Added \"during Tony Blair's leadership\" to provide context and clarify the time period being referred to.\n*   Changed \"more electable\" to \"increased electability\" to use more precise language.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-20",
+    "query": "Should social media companies be held liable for content and actions made by their users?",
+    "query_rewrite": "\"What are the implications of holding social media companies accountable for the content and actions of their users, and what are the potential consequences for free speech, user safety, and the broader online community?\"\nNote: The rewritten query is more nuanced and open-ended, encouraging a more in-depth analysis of the topic.\n\n## Step 1: Identify the key issues in the original query\nThe original query focuses on whether social media companies should be held liable for content and actions made by their users. This implies a debate about responsibility and accountability.\n\n## Step 2: Consider the implications of holding social media companies accountable\nHolding social media companies accountable for user-generated content and actions could have significant implications, including:\n\n* Impact on free speech: Would censorship and moderation become more prevalent, potentially stifling open discussion and dissent?\n* User safety: Would increased accountability lead to more effective moderation and removal of harmful content, or would it create a chilling effect on users' willingness to express themselves?\n* Broader online community: How would increased accountability affect the overall online environment, including the spread of misinformation and the role of social media in society?\n\n## Step 3: Reframe the query to capture these implications\nTo capture the complexity of the issue, the rewritten query asks about the implications of holding social media companies accountable, rather than simply whether they should be held liable. This allows for a more nuanced exploration of the topic, including the potential consequences for free speech, user safety, and the broader online community.\n\n##",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-22",
+    "query": "What was the role of technology in the Arab Spring?",
+    "query_rewrite": "\"What was the role of technology in the Arab Spring protests and movements, and how did it impact the outcomes of these events?\"\n\nThe rewritten query is more specific and detailed, providing a clearer direction for the search. Here's a breakdown of the changes made:\n\n* Added \"protests and movements\" to specify the context in which technology played a role.\n* Changed \"the Arab Spring\" to \"the Arab Spring protests and movements\" to provide more clarity on the topic.\n* Added \"and how did it impact the outcomes\" to ask a more specific and nuanced question about the role of technology.\n\nBy making these changes, the rewritten query provides a more focused and detailed direction for the search, allowing the search engine to provide more relevant and accurate results. \n\nThis is an example of a technique called \"query refinement,\" which involves refining a query to make it more specific, detailed, and relevant to the search goal. This technique can be applied to a wide range of search queries, from simple information retrieval tasks to more complex research questions. \n\nHere are some other examples of query refinement:\n\n* \"What were the main causes of the 2008 global financial crisis?\" \u2192 \"What were the main causes of the 2008 global financial crisis, and how did they impact the global economy?\"\n* \"What is the definition of artificial intelligence?\" \u2192 \"What is the definition of artificial intelligence, and how does it differ from machine learning?\"\n* \"What are the benefits of meditation?\" \u2192 \"What",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  },
+  {
+    "query_id": "politics-23",
+    "query": "Is the rise of European populism a threat to the European Union?",
+    "query_rewrite": "\"What are the implications of the recent surge in European populist movements on the stability and future of the European Union?\"\n\nChanges made:\n\n*   Changed the focus from \"is\" to \"what are the implications of\"\n*   Added more specific language to describe the phenomenon (\"recent surge in European populist movements\")\n*   Emphasized the potential consequences on the EU (\"stability and future\") rather than just its existence\n*   Used more formal and objective language throughout the query\n*   Changed the tone to be more analytical and inquiring, rather than judgmental or confrontational.",
+    "technique": "zero_shot",
+    "strategy": "baseline"
+  }
+]

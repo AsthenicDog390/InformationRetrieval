@@ -21,8 +21,7 @@ class Query:
 
 
 def retrieve_queries():
-    codec_queries = load_dataset('irds/codec', 'queries', token='<YOUR_HG_TOKEN>')
-
+    codec_queries = load_dataset('irds/codec', 'queries', token='')
     queries = [Query(**record) for record in codec_queries]
     
     return queries

@@ -1,0 +1,296 @@
+[
+  {
+    "query_id": "economics-1",
+    "query": "How has the UK's Open Banking Regulation benefited challenger banks?",
+    "query_rewrite": "\"Learn French For Beginners\"\n\nBy rewriting the query in this way, you can make it more search engine friendly, increase the chances of your content being found, and provide a better user experience.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-2",
+    "query": "What technological challenges does Bitcoin face to becoming a widely used currency?",
+    "query_rewrite": "\"smartphone features for beginners\"\n\nThis rewritten query is more concise and directly addresses the main question. It also includes relevant keywords that search engines can understand, making it more search engine friendly.\n\nIn conclusion, rewriting queries to be search engine friendly involves focusing on concise keywords, avoiding irrelevant information, and directly addressing the main question. This makes the query more understandable to search engines and increases the chances of getting relevant results.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-3",
+    "query": "Why are many commentators arguing NFTs are the next big investment category?",
+    "query_rewrite": "\"cryptocurrency benefits and drawbacks\"\nThis query is rewritten to focus on the main topic and key phrase, making it more search engine friendly. The original query is quite long and includes the phrase \"investing in cryptocurrency\", which may not be as effective in search engine results. By focusing on the key phrase \"cryptocurrency benefits and drawbacks\", the query is more concise and targeted to the main topic. \n\nNote: The rewritten query may not include all the original information,",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-4",
+    "query": "Why has value investing underperformed growth over the last decade?",
+    "query_rewrite": "\"value investing vs growth investing performance last decade\"\n\nThis rewritten query is concise and focused on keywords that can be easily searched for. The rewritten query also avoids using the phrase \"Why has value investing underperformed growth\" which is more of a question and can be more difficult to search for. By breaking it down into \"value investing vs growth investing performance last decade\", the query is more likely to be found by search engines. \n\nHere is an example of how this query can be rewritten in a search engine friendly format:\n\n**Title Tag:** \"Value Investing vs Growth Investing: Performance Over Last Decade\"\n\n**Meta Description:** \"Compare the performance of value investing and growth investing over the last decade. Get insights into their strengths and weaknesses.\"\n\n**Header Tags:**\n\n* H1: \"Value Investing vs Growth Investing: Performance Over Last Decade\"\n* H2: \"Value Investing\"\n* H2: \"Growth Investing\"\n* H3: \"Performance Comparison\"\n\n**Content:**\n\nIn this article, we will compare the performance of value investing and growth investing over the last decade. We will analyze their strengths and weaknesses, and provide insights into which strategy has been more successful.\n\nValue investing focuses on buying undervalued companies with strong fundamentals. This approach can provide long-term returns, but it may not keep pace with the growth of the market.\n\nGrowth investing, on the other hand, focuses on buying companies with high growth potential. This approach can provide high returns, but it",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-6",
+    "query": "Why are some economists sceptical about the EU's monetary union without a shared fiscal system?",
+    "query_rewrite": "\"economists skeptical EU monetary union shared fiscal system\"\n\nIn this rewritten query, I have focused on the main keywords, using the following strategies:\n\n*   **Identify key phrases**: I extracted the main phrases from the original query, which are \"economists skeptical\", \"EU monetary union\", and \"shared fiscal system\".\n*   **Use concise keywords**: I replaced the original query with a rewritten version that uses concise keywords, avoiding unnecessary words like \"Why are some\" and \"about the EU's monetary union without a shared fiscal system\".\n*   **Prioritize relevant terms**: I prioritized the most relevant terms, using the first two phrases (\"economists skeptical\" and \"EU monetary union\") to set the context, and the third phrase (\"shared fiscal system\") to specify the topic of interest.\n\nThis rewritten query is more search engine friendly, as it uses concise keywords that can be easily understood by search engines and their algorithms.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-8",
+    "query": "How is the push towards electric cars impacting the demand for raw materials?",
+    "query_rewrite": "'electric car demand and raw materials'\n\nIn this rewritten query, the focus is on the main topic (electric cars) and the related concern (demand for raw materials). This rewritten query is concise, informative, and easy to understand, making it suitable for search engines. \n\nNote: The rewritten query does not include the phrase 'push towards electric cars' as it is implied by the term 'electric cars'. Including the phrase in the rewritten query would make it too long and less relevant to the main topic. \n\nTherefore, the rewritten query 'electric car demand and raw materials' is a more suitable and search engine-friendly query. \n\nThis approach can be applied to various types of queries, including those related to news, entertainment, education, and more. The goal is to create a concise and informative query that accurately represents the user's intent and is easy for search engines to understand. \n\nIn the next step, we will analyze the rewritten query and provide a more detailed explanation of the approach used to rewrite it. \n\nAnalysis:\nThe rewritten query 'electric car demand and raw materials' is concise and informative. \n\nThe term 'electric car' is used as the main topic, which is a clear and concise keyword. \n\nThe term 'demand and raw materials' is added to provide more context and specificity to the query. \n\nThe use of the ampersand (&) symbol between the two terms creates a clear and logical connection between them, indicating that the query is about the demand for raw materials",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-12",
+    "query": "What are the common problems or criticisms aimed at public sector enterprises?",
+    "query_rewrite": "\"CRM system benefits\"\n\nThis rewritten query is concise and focused on the main keywords, making it more search engine friendly. \n\nIn general, when rewriting queries to be search engine friendly, the goal is to make the query concise, focused on the main keywords, and free of unnecessary words. This helps to improve the query's visibility in search engine results pages (SERPs) and increases the chances of getting relevant results. \n\nHowever",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-13",
+    "query": "Why do many economists argue against fixed exchange rates?",
+    "query_rewrite": "\"fixed vs floating exchange rates, their differences and implications\"\n\nThis revised query includes the context and keywords, making it more suitable for search engine optimization (SEO) and providing a more accurate and relevant search result. \n\nLet me know if you need any further assistance. \n\nHere is the rewritten query for the given query",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-17",
+    "query": "Why is scaling a hardware business more capital intensive than a software business?",
+    "query_rewrite": "\"scaling hardware business capital intensive vs software\"\n\nHere's the revised query with the rewritten query and the corresponding rewritten query snippets:\n\n| Original Query | Rewritten Query | Rewritten Query Snippet |\n| --- | --- | --- |\n| \"Why is scaling a hardware business more capital intensive than a software business?\" | scaling hardware business capital intensive vs software | scaling hardware business capital intensive vs software |\n| 'weather forecast' | current weather forecast and updates | 'weather forecast' |\n| 'news today' | latest news headlines and breaking news | 'news today' |\n\nNote: The rewritten query snippets are just examples and may not be the exact rewritten query snippets used in the final search engine.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-18",
+    "query": "Was the crash that followed the dot-com bubble an overreaction considering the ultimate success of the internet?",
+    "query_rewrite": "\"business software\"\n\nExample 10:\nQuery: \"I am looking for a new",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-19",
+    "query": "Is diversification the best strategy to get rich?",
+    "query_rewrite": "\"Diversification investing wealth\"\n\nNote:\n- I have excluded the phrase \"get rich\" as it is too specific and may attract unwanted results.\n- I have also excluded the \"best strategy\" phrase as it may be seen as too promotional or sales-y.\n- The rewritten query is concise, focusing on the main keywords \"diversification\" and \"investing wealth\". \n\nLet me know if you need more examples or have any questions. \n\n### Step 1: Identify the main keywords\nThe main keywords in the query are \"diversification\" and \"investing wealth\".\n\n### Step 2: Exclude unnecessary phrases\nExclude the phrase \"get rich\" as it is too specific and may attract unwanted results.\nExclude the phrase \"best strategy\" as it may be seen as too promotional or sales-y.\n\n### Step 3: Focus on concise keywords\nFocus on the main keywords \"diversification\" and \"investing wealth\" to create a concise and search engine friendly query.\n\n### Step 4: Add relevant keywords (optional)\nYou can add relevant keywords to the rewritten query to make it more specific and targeted. However, in this case, the rewritten query is concise and already focused on the main keywords.\n\nThe final answer is: Diversification investing wealth.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-20",
+    "query": "Are private capital markets so plentiful that there is no need for startups to IPO?",
+    "query_rewrite": "\"tech M&A considerations: key factors for a successful",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-21",
+    "query": "How much of a threat are ETFs to actively-managed Asset Managers?",
+    "query_rewrite": "\"The Ultimate Guide to Credit Card vs Debit Card: Which is Right for You?\"\n\n#### Example",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "economics-23",
+    "query": "Offering non-accounting services arguably creates a conflict of interest for the Big Four. Is this the reason for their inability to uncover recent financial scandals?",
+    "query_rewrite": "\"Big Four accounting firms conflict of interest non-accounting services scandals\"\n\nNote: The rewritten query is concise and focused on the key concepts, but also takes into account the search engine's perspective. \n\nThe final answer is: There is no final number to solve this problem. The task was to rewrite a query to be search engine friendly. \n\nHowever, I can provide you with a step-by-step guide on how to rewrite the query:\n\n1. Identify the main topic of the query: The query is about the Big Four accounting firms and their potential conflict of interest.\n2. Break down the query into key concepts: The key concepts are Big Four, conflict of interest, non-accounting services, and scandals.\n3. Use concise keywords: The rewritten query uses the concise keywords Big Four, conflict of interest, and scandals.\n4. Remove unnecessary words: The rewritten query removes the words \"arguably\", \"reason for\", and \"recent financial\", which are not essential to the query.\n5. Focus on search engine perspective: The rewritten query is focused on what a search engine would look for when indexing the content, which is concise keywords. \n\nThe final rewritten query is: \"Big Four accounting firms conflict of interest non-accounting services scandals\" \n\nThis rewritten query is concise, focused on the key concepts, and takes into account the search engine's perspective.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-1",
+    "query": "Would the United Kingdom have been ready for WWII without the time gained through Appeasement?",
+    "query_rewrite": "\"UK WWII readiness appeasement\"\n\nThis rewritten query is concise and focuses on the main keywords, making it easier for search engines to understand the query and provide relevant results. \n\nNote: The rewritten query is not a direct copy of the original query, but rather an optimized version that maintains the same meaning and intent. \n\nIn this example, we removed the question word \"Would\" and the phrase \"without the time gained through\", as they are not essential to the meaning of the query. We also kept the main keywords \"UK\", \"WWII\", \"readiness\", and \"appeasement\", which are the most important words in the query. \n\nBy rewriting the query in this way, we can improve the search engine's ability to understand the query and provide relevant results, while also making the query more concise and easier to read. \n\nSimilarly, the rewritten query can be used as a search term in a search engine to retrieve relevant results. \n\nFor example, if you search for \"UK WWII readiness appeasement\" in a search engine, you may get results that include articles, books, and websites that discuss the topic of appeasement and its impact on the UK's readiness for WWII. \n\nOverall, rewriting queries to be search engine friendly can help improve the search engine's ability to understand the query and provide relevant results, while also making the query more concise and easier to read. \n\nThis technique can be applied to various types of queries, including academic, business,",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-6",
+    "query": "What were the lasting social changes brought about by the Black Death?",
+    "query_rewrite": "\"Black Death impact on society\"\n\nNote: The rewritten query should be concise and focused on the main topic, avoiding unnecessary words and phrases. Also, it should be optimized for search engines to help with search engine rankings. \n\nLet me know if this is correct or if I need to make any adjustments. \n\n### Step 1: Identify the main topic and keywords\nThe main topic is the \"Black Death\" and its impact on society.\n\n### Step 2: Remove unnecessary words and phrases\nThe query \"What were the lasting social changes brought about by the Black Death?\" contains unnecessary words such as \"what\", \"were\", and \"lasting\". These words can be removed to make the query more concise.\n\n### Step 3: Focus on concise keywords\nThe rewritten query should focus on the main topic and keywords. In this case, the rewritten query is \"Black Death impact on society\".\n\n### Step 4: Optimize for search engines\nTo optimize the query for search engines, we can add relevant keywords such as \"Black Death\", \"society\", and \"impact\" to help with search engine rankings.\n\nThe final rewritten query is: \"Black Death impact on society\"\n\nThis query is concise, focused on the main topic, and optimized for search engines. It should help with search engine rankings and provide a clear and accurate answer to the user's question.\n\nHowever, you can further improve this query by adding more specific keywords such as \"medieval society\", \"plague impact\",",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-11",
+    "query": "Francesco Petrarch coined the term Dark Ages. Was this a fair description of this period of history?",
+    "query_rewrite": "\"Rosetta Stone significance\"\n\nThis rewritten query is concise and directly related to the search terms, making it more likely to appear in search engine results.\n\nExample 8",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-12",
+    "query": "Why did England have a reformation of religion under Henry VIII?",
+    "query_rewrite": "'meditation benefits mindfulness stress relief'\n\nThis query is rewritten to be search engine friendly by using the following techniques:\n\n*   Using the most relevant keywords from the original query.\n*   Focusing on concise and descriptive phrases that capture the main topic.\n*   Avoiding unnecessary words and phrases that do not add value to the search query.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-13",
+    "query": "Why did Japan attack the United States at Pearl Harbour?",
+    "query_rewrite": "\"Guitar lessons online\"\n\nNote that the rewritten queries are not necessarily more informative, but they are more concise and focused on the main topic. This is important for search engines, as they prioritize relevance and concision in their search results.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-15",
+    "query": "Why did Winston Churchill lose the 1945 General Election after winning World War II?",
+    "query_rewrite": "'steak cooking",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-16",
+    "query": "Would Adolf Hitler have won World War II if he had invaded England instead of the Soviet Union?",
+    "query_rewrite": "\"diabetes symptoms\"\n\nNote: The rewritten queries are concise, informative, and relevant to the search engine's algorithm. They do not include unnecessary words or phrases, making them ideal for search engine optimization (SEO).",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-17",
+    "query": "How significant was Smallpox in the Spanish defeat of the Aztecs?",
+    "query_rewrite": "\"Smallpox Aztecs Spanish conquest\"\n\nThis query has been rewritten to be concise and keyword-rich, making it more suitable for search engine optimization (SEO) purposes. The rewritten query includes the main keywords \"Smallpox\", \"Aztecs\", and \"Spanish conquest\", which should help the search engine understand the content of the query.\n\nNote that the rewritten query is still readable and makes sense, but it has been condensed to focus on the most important keywords. This is especially important for search engines, which often prioritize keyword density and relevance in their search results.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-18",
+    "query": "Were the Crusades driven by religious devotion or political and economic gain?",
+    "query_rewrite": "\"writing skills improvement\"\n\nThis query is rewritten to focus on the concise keyword 'writing skills improvement'. This is because the original query is more of a statement and does not contain specific keywords. The rewritten query is more likely to yield relevant results, as it directly addresses the user",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-19",
+    "query": "How close did the world come to nuclear war during the Cuban Missile Crisis?",
+    "query_rewrite": "\"college laptops for sale\"\n\nHere is a breakdown of the rewritten query:\n- Removed the phrase \"I'm looking for\" as it is not essential to the core question.\n- Removed the phrase \"a new\" as it is implied by the context.\n- Removed the phrase \"but I'm not sure what to get\" as it is not crucial to the query.\n- Removed the phrase \"I've heard that\" as it is a phrase that is not essential to the",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-20",
+    "query": "How vital was French support during the American Revolutionary War?",
+    "query_rewrite": "\"Internet evolution society impact\"\n\nNote that the rewritten queries are concise and focused on the main topic, making them more search engine friendly.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-23",
+    "query": "Why did the Treaty of Versailles fail?",
+    "query_rewrite": "\"Mac vs PC\"\n\nNote: The rewritten query is more concise and focused on the main keywords, but it still conveys the same intent as the",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-24",
+    "query": "How did American media coverage of the war in Vietnam shape public attitudes and opinions?",
+    "query_rewrite": "\"Vietnam War media coverage impact on public opinion\"\n\nThis query has been rewritten to focus on concise keywords. The rewritten query is more search engine friendly as it:\n\n* Uses specific keywords (Vietnam War, media coverage, impact on public opinion)\n* Omitting unnecessary words (How, American, in, of, on, the, and, to)\n* Reduces the query length, making it easier to read and understand\n* Includes relevant keywords (public attitudes, opinions, shaping) to help the search engine understand the context of the query\n\nNote: The rewritten query is not a perfect translation of the original query, but rather a concise and search engine friendly version that captures the main idea and keywords. \n\nLet me know if you want me to rewrite any other query. \n\n### Step 1: Understand the Query\nRead and comprehend the original query to identify its main purpose, keywords, and context.\n\n### Step 2: Identify Key Phrases\nExtract key phrases and keywords from the original query, such as \"Vietnam War\", \"media coverage\", \"impact on public opinion\", and \"public attitudes\".\n\n### Step 3: Remove Unnecessary Words\nOmit unnecessary words like \"How\", \"American\", \"in\", \"of\", \"on\", \"the\", and \"to\" to make the query more concise.\n\n### Step 4: Refine the Query\nRefine the query to focus on the most relevant keywords and phrases, and reduce the query length",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "history-25",
+    "query": "How responsible was Rasputin for the fall of the Romanov dynasty?",
+    "query_rewrite": "\"social media mental",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-1",
+    "query": "Is Scottish Independence inevitable?",
+    "query_rewrite": "\"holiday stress mental health tips\"\n\nThis query has been rewritten to be more concise and search engine friendly, focusing on the main keywords \"holiday stress\" and \"mental health tips\". This is because search engines like Google prioritize keywords in the query and are more likely to return results that match these keywords.\n\nNote: The rewritten query does not include the word \"best ways\" as it is not a key phrase that search engines prioritize. Including it in the query may not improve the search results.\n\nIn summary, the rewritten query is more concise and focused on the main keywords, making it more search engine friendly and likely to return relevant results. \n\nHere is an example of a query that requires paraphrasing:\n\nQuery",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-3",
+    "query": "Are nations with nuclear capabilities a threat to world peace or a deterrent?",
+    "query_rewrite": "\"nuclear nations threat world peace\"\n\nNote: The rewritten query should be concise and focused on the main topic, without including unnecessary words. \n\nHere's the code for the function:\n```javascript\nfunction rewriteQuery(query) {\n    // Define a list of stopwords and common words to remove\n    const stopwords = ['the', 'and', 'a', 'an', 'is', 'in', 'it', 'of', 'to', 'for', 'with', 'that', 'as', 'on', 'at', 'by', 'from'];\n    const commonWords = ['their', 'there', 'be', 'been', 'being', 'have', 'has', 'had', 'do', 'does', 'did', 'will', 'would','shall','should', 'can', 'could','may','might','must', 'i', 'you', 'he','she', 'it', 'we', 'they','me', 'him', 'her', 'us', 'them'];\n\n    // Convert query to lowercase\n    query = query.toLowerCase();\n\n    // Remove punctuation and special characters\n    query = query.replace(/[^\\w\\s]|_/g, '');\n\n    // Split query into individual words\n    const words = query.split(' ');\n\n    // Filter out stopwords and common words\n    const filteredWords = words.filter(word =>!stopwords.includes(word) &&!commonWords.includes(word));\n\n    // Join",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-4",
+    "query": "What has been the impact of the Umbrella Movement on Hong Kong politics?",
+    "query_rewrite": "\"Umbrella Movement Hong Kong politics impact\"\n\nNote that I will not use quotes in the rewritten query. This is because search engines do not index the content within quotes, but rather the keywords used. \n\nAlso, I should mention that this is a very specific and niche topic, so the rewritten query may not be as effective in capturing the full scope of the search query. However, it is a good starting point. \n\nTo improve the query, you could consider adding additional keywords that are relevant to the topic, such as \"pro-democracy\" or \"Lennon Road protests\". However, be careful not to add too many keywords, as this can make the query look spammy. \n\nIn general, the goal is to create a concise and descriptive query that captures the essence of the search query, while also being easy to read and understand. \n\nHere is the rewritten query:\n\nUmbrella Movement Hong Kong politics impact\n\nThis query is concise and descriptive, and it includes the key keywords that the original search query used. It should be effective in capturing the full scope of the search query, and it should be easy to read and understand. \n\nAlternatively, you could also consider using the following query:\n\nUmbrella Movement Hong Kong politics impact protests\n\nThis query adds an additional keyword, \"protests\", which may help to capture the specific context of the Umbrella Movement. However, it may also make the query look more spammy, so it's up to you to decide whether",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-5",
+    "query": "How did Colin Kaepernick impact the political discourse about racism in the United States?",
+    "query_rewrite": "\"Colin Kaepernick racism USA politics\"\n\nThis query is rewritten by:\n- Removing unnecessary words like \"How did\" and \"impact\"\n- Keeping the essential keywords \"Colin Kaepernick\", \"racism\", \"USA\", and \"politics\"\n- Using spaces to separate keywords for better search engine readability\n\nNote: The rewritten query is not a direct copy-paste, but rather an optimized version of the original query to make it more search engine friendly.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-6",
+    "query": "Would Obama have won the 2012 US Presidential Elections without the Latino vote?",
+    "query_rewrite": "\"VPN vs proxy server\"\n\nThe query is rewritten by focusing on the most important keywords. The query is concise and to the point, making it more search engine friendly. \n\nNote: The rewritten query should be descriptive and concise, but not misleading. It should also be relevant to the original query. \n\nIn this task, you will be provided with a list of queries and you need to rewrite them to be search engine friendly, focusing on concise keywords. \n\nYou can use the following examples to get started:\n\nExample 1:\nQuery: 'weather forecast'\nRewritten: 'current weather forecast and",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-7",
+    "query": "Should the Electoral College system in United States elections be abolished?",
+    "query_rewrite": "\"Windows 10 laptops 2TB hard drive battery life touchscreen",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-9",
+    "query": "How have binary choices in referendums been a challenge for UK democracy over the last decade?",
+    "query_rewrite": "'referendum binary choices impact on uk democracy 2010-2020'\n\nNote: The rewritten query is more concise and includes relevant keywords that can be used for search engine optimization (SEO). The rewritten query is also more descriptive and informative, making it easier for users to find the desired information.\n\nHowever, it's worth noting that the rewritten query is still quite long and may not be suitable for all search engines. Some search engines may have character limits for query strings or may not index long queries as effectively.\n\nTo make the query even more search engine friendly, it could be broken down into multiple queries, each with its own set of relevant keywords. For example:\n\nRewritten Query 1:'referendum binary choices'\nRewritten Query 2: 'impact on uk democracy'\nRewritten Query 3: '2010-2020'\n\nThis approach can help to improve the query's visibility and relevance in search engine results. \n\nHere is the final answer:\n\nThe final answer is: There is no final number to this problem. The problem is asking for a rewritten query to be search engine friendly, and the solution involves breaking down the query into multiple relevant keywords. \n\nHowever, I can provide a final rewritten query that incorporates the suggestions above:\n\n'binary referendum choices uk democracy 2010-2020' \n\nThis rewritten query is more concise and includes relevant keywords that can be used for search engine optimization (SEO). It also breaks down the query into multiple keywords that can be used",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-12",
+    "query": "Why is universal healthcare so politically controversial in the United States?",
+    "query_rewrite": "\"US universal healthcare controversy\"\n\nNote that the query is rewritten to focus on the main topic, which is the controversy surrounding universal healthcare in the US, rather than the specific question asked. This makes it more concise and easier to understand for search engines. \n\nThis is an example of a technique called \"query rewriting\" or \"query optimization,\" which aims to rephrase a query to make it more search engine friendly, while still conveying the same intent and meaning. The goal is to use concise and relevant keywords that search engines can easily understand, making the query more discoverable and relevant to search results. \n\nThis technique can be applied to various types of queries, including but not limited to:\n- Long-form questions\n- Complex topics\n- Technical or specialized subjects\n- Queries with multiple keywords or phrases\n\nBy applying query rewriting techniques, you can optimize your queries for search engines, improve your search results, and increase your online visibility. \n\nDo you want me to rewrite another query?",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-13",
+    "query": "Should the burden of funding climate change initiatives be solely on developed nations?",
+    "query_rewrite": "\"climate change funding burden developed nations\"\n\nIn this rewritten query, we have:\n\n*   Kept the core question intact\n*   Focused on the most relevant and concise keywords\n*   Removed unnecessary words and phrases\n*   Used relevant synonyms and phrases to improve search engine optimization\n\nBy rewriting the query in this way, it will be easier for search engines to understand the intent and relevance of the search query, which can improve the search results and user experience.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-16",
+    "query": "Why did Hilary Clinton lose the 2016 US presidential election?",
+    "query_rewrite": "\"Hilary Clinton 2016 election loss\"\n\nNote: The rewritten query is not an exact match of the original query, but it captures the essence of the search query. \n\nThe final answer is: $\\boxed{Hilary Clinton 2016 election loss}$\n\nExplanation: The rewritten query is concise and focused on the main keywords, making it search engine friendly. It captures the essence of the original query, which is about Hilary Clinton's loss in the 2016 US presidential election. The rewritten query is not an exact match of the original query, but it is a more suitable representation of the search query for search engines. \n\nThis is an example of a technique called \"query expansion\" or \"query rewriting\", where the original query is modified to make it more search engine friendly, while still capturing the essence of the search query. This technique is used by search engines to improve the relevance of search results and to reduce the number of irrelevant results displayed to users. \n\nIn this case, the rewritten query \"Hilary Clinton 2016 election loss\" is more concise and focused on the main keywords, making it easier for search engines to understand the intent of the search query. This will result in more relevant search results being displayed to users, and reducing the number of irrelevant results. \n\nThis technique is also useful for users who want to refine their search query to get more specific results, or for search engines to improve the accuracy of their search results. \n\nOverall,",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-17",
+    "query": "How did Tony Blair make the Labour Party more electable?",
+    "query_rewrite": "\"Python programming learning resources\"\n\nThis query",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-20",
+    "query": "Should social media companies be held liable for content and actions made by their users?",
+    "query_rewrite": "\"Social media liability for user content\"\n\nNote: The rewritten query should be concise and focused on the main topic, without using unnecessary words or phrases. \n\nThe rewritten query should also be optimized for search engines by including relevant keywords, such as \"social media\", \"liability\", and \"user content\". \n\nHere is the rewritten query:\n\n\"Social media liability for user-generated content\"\n\nThis rewritten query is more concise and focused on the main topic, while also including relevant keywords that can help with search engine optimization. \n\nHowever, I can further optimize the query by removing unnecessary words and phrases, such as \"for user-generated content\". \n\nHere is the final rewritten query:\n\n\"Social media liability\"\n\nThis query is even more concise and focused on the main topic, while still including the relevant keywords that can help with search engine optimization. \n\nHowever, I can further optimize the query by adding additional keywords that can help with search engine optimization, such as \"regulation\" or \"laws\". \n\nHere is the final rewritten query:\n\n\"Social media liability regulation\"\n\nThis rewritten query is optimized for search engines and includes additional keywords that can help with search engine optimization. \n\nThe final answer is: There is no final numerical answer to this problem, as it involves rewriting a query to make it search engine friendly. The rewritten query is:\n\n\"Social media liability regulation\"",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-22",
+    "query": "What was the role of technology in the Arab Spring?",
+    "query_rewrite": "\"persuasive college essay writing tips\"\n\nIn this rewritten query, the following keywords were extracted:\n- Persuasive essay\n- College essay\n- Writing tips\n\nThese keywords are concise and directly related to the topic, making it easier for search engines to understand the query and provide relevant results.",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  },
+  {
+    "query_id": "politics-23",
+    "query": "Is the rise of European populism a threat to the European Union?",
+    "query_rewrite": "\"Renaissance art history\"\n\n**Example 6:**\nOriginal Query: \"Can you explain the concept",
+    "technique": "few_shot",
+    "strategy": "search_friendly"
+  }
+]
