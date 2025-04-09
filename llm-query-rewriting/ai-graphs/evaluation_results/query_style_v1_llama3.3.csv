@@ -1,0 +1,2 @@
+name,map,recip_rank,P_10,recall_100,ndcg_cut_10,map +,map -,map p-value,recip_rank +,recip_rank -,recip_rank p-value,P_10 +,P_10 -,P_10 p-value,recall_100 +,recall_100 -,recall_100 p-value,ndcg_cut_10 +,ndcg_cut_10 -,ndcg_cut_10 p-value
+BM25 with query_style_v1_llama3.3,0.2653806234453684,0.8351473922902495,0.5761904761904761,0.35781954349890094,0.3732154556888637,,,,,,,,,,,,,,,

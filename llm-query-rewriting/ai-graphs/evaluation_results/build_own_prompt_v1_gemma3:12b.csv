@@ -1,0 +1,2 @@
+name,map,recip_rank,P_10,recall_100,ndcg_cut_10,map +,map -,map p-value,recip_rank +,recip_rank -,recip_rank p-value,P_10 +,P_10 -,P_10 p-value,recall_100 +,recall_100 -,recall_100 p-value,ndcg_cut_10 +,ndcg_cut_10 -,ndcg_cut_10 p-value
+BM25 with build_own_prompt_v1_gemma3:12b,0.260860086407285,0.788392023476057,0.5880952380952379,0.34440576642226395,0.3886495269882331,,,,,,,,,,,,,,,

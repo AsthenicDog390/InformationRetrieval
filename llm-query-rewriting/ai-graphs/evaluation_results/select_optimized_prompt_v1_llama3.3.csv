@@ -1,0 +1,2 @@
+name,map,recip_rank,P_10,recall_100,ndcg_cut_10,map +,map -,map p-value,recip_rank +,recip_rank -,recip_rank p-value,P_10 +,P_10 -,P_10 p-value,recall_100 +,recall_100 -,recall_100 p-value,ndcg_cut_10 +,ndcg_cut_10 -,ndcg_cut_10 p-value
+BM25 with select_optimized_prompt_v1_llama3.3,0.2707471726931326,0.8270975056689343,0.5904761904761904,0.3561411787893925,0.41862567015765134,,,,,,,,,,,,,,,
