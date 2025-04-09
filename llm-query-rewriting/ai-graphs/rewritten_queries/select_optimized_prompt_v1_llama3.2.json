@@ -1,0 +1,338 @@
+[
+  {
+    "query_id": "economics-1",
+    "original_query": "How has the UK's Open Banking Regulation benefited challenger banks?",
+    "query_style": "concise",
+    "query": "How have UK Open Banking Regulations and APIs benefited challenger banks in terms of customer acquisition, loan origination, and financial inclusion while leveraging fintech innovations and reducing legacy system dependencies?",
+    "domain": "finance",
+    "guidelines": "UK’s Open Banking regulation, which has parallels to the EU’s second payment service directive (PSD2), went live in January 2018. This piece of legislation “will require banks to open their payments infrastructure and customer data assets to third parties”. As a result, banks no longer have a monopoly on user data if clients grant permission. \n\nChallenger banks are small, recently created retail banks that compete directly with the longer-established banks in the UK. Specifically, seeking market share from the big four UK retail banks (Barclays, HSBC, Lloyds Banking Group, and NatWest Group). The banks distinguish themselves from the historic banks by modern financial technology practices, such as online-only operations, that avoid the costs and complexities of traditional banking. The largest UK-operating challenger banks include Atom Bank, Revolut, Starling, N26, and Tide.\n\nRelevant documents and entities will discuss how challenger banks have used open banking to develop new products or capture market share from traditional retail banks in the UK."
+  },
+  {
+    "query_id": "economics-2",
+    "original_query": "What technological challenges does Bitcoin face to becoming a widely used currency?",
+    "query_style": "concise",
+    "query": "What technological challenges does Bitcoin face to becoming a widely used digital currency in mainstream adoption scenarios, considering scalability limitations, security vulnerabilities, regulatory compliance issues, and interoperability standards with existing payment systems?",
+    "domain": "finance",
+    "guidelines": "Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries.\n\nSince its inception in 2008, Bitcoin has seen a huge increase in both valuation and transactions. This included being controversially introduced as El Salvador national currency. \n\nThere are technology challenges bitcoin faces to being widely used for transactions. Including but not limited to: (1) carbon footprint for bitcoin mining, (2) cost and speed of payments, (3) technology-driven excessive volatility, and (4) security. In fact, other cryptocurrencies might be much better suited (Ether, Ripple, or Elon Musk argues DOGE)."
+  },
+  {
+    "query_id": "economics-3",
+    "original_query": "Why are many commentators arguing NFTs are the next big investment category?",
+    "query_style": "concise",
+    "query": "Why are many financial commentators and industry experts arguing that non-fungible tokens (NFTs) represent a burgeoning investment opportunity due to their potential for speculative growth, digital scarcity, and unique ownership models?",
+    "domain": "finance",
+    "guidelines": "A non-fungible token (NFT) is a non-interchangeable unit of data stored on a blockchain, like Ethereum. NFTs can also be associated with reproducible digital files such as photos, videos, and audio. These include cartoon apes or Beeple’s $69 million digital collage. NFTs use a digital ledger to provide a public certificate of authenticity or proof of ownership.\n\nCreators are excited to engage with a new medium to share and monetize their work via NFTs, one that can encompass a broad range of digital and real-world implementations. While many high-profile investors feel this new asset class offers potentially high returns over the coming years. Yet, with any new asset class, especially combined with cryptocurrencies, many see these as extremely high-risk investments."
+  },
+  {
+    "query_id": "economics-4",
+    "original_query": "Why has value investing underperformed growth over the last decade?",
+    "query_style": "concise",
+    "query": "Why has value investing underperformed growth investing strategies over the last decade in developed equity markets? \n\n(Note: I've tried to maintain a natural language structure while incorporating specific terminology, alternative terms, and additional context.)",
+    "domain": "finance",
+    "guidelines": "Value investing is the art of buying stocks that trade at a significant discount to their intrinsic value (i.e. cheap valuation metrics, typically low multiples of their profits or assets). Investors believe the price will trend toward this intrinsic value over the medium-to-long term.\n\nGrowth investing is an investment style that invests in growth stocks—that is, newer companies or sectors whose earnings are expected to increase at an above-average rate compared to their industry sector or the overall market.\n\nOver the last decade, large tech companies (growth companies) have seen massive growth, i.e. Facebook, Alphabet, Amazon, Apple and Netflix – once named FAANG stocks. Investing in emerging industries and technologies, such as Tesla for electric cars, have generally outperformed more traditional sectors and companies."
+  },
+  {
+    "query_id": "economics-6",
+    "original_query": "Why are some economists sceptical about the EU's monetary union without a shared fiscal system?",
+    "query_style": "concise",
+    "query": "Why are some economists sceptical about the European Union's monetary integration (EMU) without a shared fiscal authority or system of centralized taxation, given concerns over heterogeneity in member state economic fundamentals, asymmetric shocks, and potential for moral hazard within the Eurozone, including implications for macroeconomic stability, financial contagion risk, and the effectiveness of current institutional arrangements such as the Stability and Growth Pact?",
+    "domain": "finance",
+    "guidelines": "The euro arose from the 1991 Maastricht Treaty, in which the 12 original member countries of the European Community (now the European Union) created an economic and monetary union and a corresponding common unit of exchange. This was intended to reduce trade barriers within Europe and encourage economic integration and growth.\n\nHowever, many economists argue that the euro is doomed to fail without a shared fiscal system, i.e. individual countries have sole spending, taxation, and debts. There was also very different fiscal ideologies between German rigour and Southern flexibility. Documents, entities, or events are relevant if they highlight economic concerns about the EU's monetary union within a shared fiscal system."
+  },
+  {
+    "query_id": "economics-8",
+    "original_query": "How is the push towards electric cars impacting the demand for raw materials?",
+    "query_style": "descriptive",
+    "query": "Electric cars demand raw materials impact",
+    "domain": "finance",
+    "guidelines": "Mass adoption of electric vehicles (EVs) is expected in the years ahead. This shift has, and will continue to have, a significant impact on demand for specific raw materials. For example, lithium, nickel and cobalt will increase due to battery demand. While oil-based vehicles will decline in the coming decades, which will reduce the need for oil. Any document or entity that discusses the past and future demand shifts of raw materials are relevant."
+  },
+  {
+    "query_id": "economics-12",
+    "original_query": "What are the common problems or criticisms aimed at public sector enterprises?",
+    "query_style": "concise",
+    "query": "What are the common challenges or criticisms faced by public sector organizations such as inefficiencies in service delivery, allegations of corruption or bureaucratic red tape, poor transparency in governance or decision-making processes, inadequate accountability mechanisms, or perceived lack of responsiveness to citizen needs, and how do they impact the effectiveness and trustworthiness of these enterprises?",
+    "domain": "finance",
+    "guidelines": "In economic theory, private enterprises and markets driven by supply and demand are advantageous due to efficient market hypotheses. However, there is clearly a need for some public sector enterprises to deliver goods and services that the government felt would not be delivered otherwise. For example, utilities, regulation, advice,  transport, broadcasting, etc.\n\nSome economic problems include (1) funding of are political rather than on rational, (2) utilization of services, (3) inefficiency, (4) poor technology, and (5) managerial failure. A good answer should cover several problems in detail will examples and explanations."
+  },
+  {
+    "query_id": "economics-13",
+    "original_query": "Why do many economists argue against fixed exchange rates?",
+    "query_style": "concise",
+    "query": "Why do many economists argue against fixed exchange rates in the context of monetary policy, international trade, and currency fluctuations, considering the potential drawbacks of economic shocks, capital controls, and loss of monetary independence?",
+    "domain": "finance",
+    "guidelines": "Fixed exchange rates can bring benefits in reducing uncertainty due to minimising fluctuations in the currency movements, giving greater confidence for firms to invest (especially exporters). This can be especially appealing for developing countries with highly volatile currencies. The hong kong dollar is perhaps the most famous fixed exchange rate currently.\n\nHowever, non-fixed currencies naturally reflect the demand and supply of two individual currencies, driven by economic prospects, trade, inflation, and interest rates. To keep currencies artificially fixed may be difficult and require high-interest rates and deflating the economy. In recent years, there have been many examples where currencies are forced out of the fixed exchange rate, i.e. UK leaving the European Exchange Rate Mechanism (ERM) in 1992 or Swiss franc in 2015."
+  },
+  {
+    "query_id": "economics-17",
+    "original_query": "Why is scaling a hardware business more capital intensive than a software business?",
+    "query_style": "concise",
+    "query": "### Enhanced Query:\nWhat are the primary reasons why scaling a hardware-based venture is more capital-intensive compared to a software-based business, considering factors such as manufacturing costs, economies of scale, supply chain complexity, research and development expenses, and operational scalability? Can this disparity be attributed to differences in production volume, technological advancements, or market competition dynamics in the tech industry?",
+    "domain": "finance",
+    "guidelines": "Hardware businesses are said to be hard for a reason. Hardware businesses often require specialized equipment and expensive components to develop an early-stage prototype. There will often need to be further investment in tools and the supply chain to get unit economics down. If something goes wrong with the product, the business will need to fix it (either recall or site visit) to alleviate the issue. \n\nOn the other hand, most software businesses are based largely on standard code bases that can be written on a computer. Early prototypes can be developed quickly and iteration can be done daily. If there is a bug in a launched product, this can be patched remotely."
+  },
+  {
+    "query_id": "economics-18",
+    "original_query": "Was the crash that followed the dot-com bubble an overreaction considering the ultimate success of the internet?",
+    "query_style": "concise",
+    "query": "Was the crash that followed the dot-com bubble an overreaction considering the long-term growth and sustainability of the internet economy, taking into account the role of technological innovation, market correction, and regulatory responses in shaping the industry's trajectory?",
+    "domain": "finance",
+    "guidelines": "The dot-com buddle from 1995-2000 saw incredible growth in stocks that were considered to have anything to do with the internet. NASDAQ rose 400% only to fall 78% from its peak by 2002. Several high-profile failures included Pets.com, Boo.com, Woldcom, and Global Crossing. However, many internet-based companies survived and went on to thrive, i.e. eBay, Amazon, Qualcomm, Cisco Systems. Venture Capital pulled back from the internet space for a period.\n\nHowever, with FANNG stocks and incredible software/internet-based companies performance from the mid-2000s until the present day, it could be argued that the direction of the dot-com bubble was absolutely correct. Nonetheless, the magnitude of equity growth and capital allocation to companies with limited commercial value was irrational and required a market correction."
+  },
+  {
+    "query_id": "economics-19",
+    "original_query": "Is diversification the best strategy to get rich?",
+    "query_style": "concise",
+    "query": "### Enhanced Query:\nWhat are the benefits and limitations of diversification as a wealth creation strategy compared to other investment tactics such as value investing or dividend investing? How does diversification's impact on risk management and portfolio performance compare to those strategies aimed at high returns or quick wealth accumulation?\n\nThis enhanced query aims to capture relevant information while addressing potential ambiguities, thereby improving retrieval metrics.",
+    "domain": "finance",
+    "guidelines": "Diversification, i.e. spreading your investments across multiple assets classes and exposures, has long been sound investment advice to reduce the volitatly of your portfolio. This is supported by many economics and investment professionals to ensure one protects and grows one's assets over a long period.\n\nHowever, if you are looking to get rich it could be argued taking several high-risk bets might be more effective. For example, early-stage investors in startups, founder equity (Elon Musk, Bill Gates, etc.), options trading, cryptocurrencies. These types of assets allocation are far riskier in terms of returns, i.e. you could lose most of your wealth. However, if the goal is to get rich regardless of the consequences, this may be a rational strategy."
+  },
+  {
+    "query_id": "economics-20",
+    "original_query": "Are private capital markets so plentiful that there is no need for startups to IPO?",
+    "query_style": "concise",
+    "query": "Here is the enhanced query:\n\nIs there a surplus of private capital market opportunities that render initial public offerings (IPOs) redundant for early-stage startups? Or are venture capital, angel investments, crowdfunding platforms, and private equity firms sufficient to finance growth without necessitating a public listing?",
+    "domain": "finance",
+    "guidelines": "Private capital markets have been increasingly attracting more money, i.e. the rise in venture capital and private equity asset classes. Several decades ago, fast-growing startups had to IPO relatively early due to capital requirements. Now, startups can raise billions of dollars in private markets without the risk or transparency of an IPO (Revolut, Uber, We Work, etc.). Nonetheless, IPO-ing is still extremely popular - even if happening later - IPOs allow early investors/founders to exit and institutional investors to provide larger amounts of capital to fund growth."
+  },
+  {
+    "query_id": "economics-21",
+    "original_query": "How much of a threat are ETFs to actively-managed Asset Managers?",
+    "query_style": "concise",
+    "query": "How much of a threat do Exchange-Traded Funds (ETFs) pose to actively-managed Asset Management firms in terms of assets under management, revenue growth, and market share erosion, particularly in the context of fee compression and the rise of low-cost investment products? \n\nAdditionally, what are the implications of ETF adoption for traditional asset managers' business models, and how can they adapt to remain competitive in a shifting landscape characterized by increased investor awareness and demand for cost-effective investment solutions?\n\nInclude synonyms or related terms for:\n- Actively-managed Asset Managers: \n  - Passive investment strategies\n  - Index fund managers\n  - Traditional asset management firms\n\n- ETFs:\n  - Index-based exchange-traded products (ETPs)\n  - Low-cost index funds\n  - Passive investment vehicles",
+    "domain": "finance",
+    "guidelines": "ETFs have become increasingly popular as a low-cost means of tracking a particular index or product. However, active-managed funds have higher fees, and although some do beat the market through stock selection or asset allocation, many do not. As a result, it's expected ETFs will continue to gain popularity; however, there will likely always be demand for actively-managed for specific strategies. As a result, asset managers will need to find new ways to stand out and rely on strong track records."
+  },
+  {
+    "query_id": "economics-23",
+    "original_query": "Offering non-accounting services arguably creates a conflict of interest for the Big Four. Is this the reason for their inability to uncover recent financial scandals?",
+    "query_style": "concise",
+    "query": "Here is the enhanced search query:\n\nBig Four accounting firms' non-core service offerings creating perceived conflict of interest leading to inadequate identification or investigation of recent high-profile financial scandals, such as Enron, Lehman Brothers, or Wells Fargo, and implications for auditor independence, professional skepticism, and external audit quality.\n\nThis revised query incorporates specific terminology, alternative terms, and additional context to improve retrieval effectiveness.",
+    "domain": "finance",
+    "guidelines": "The Big Four are the four largest global accounting firms that dominate corporate accounting, i.e. Deloitte, Ernst & Young (EY), PricewaterhouseCoopers (PwC), and Klynveld Peat Marwick Goerdeler (KPMG). As well as offering accounting services, these firms also over other many higher-margin services such as tax, consultancy, and technology services (~80% revenue). \n\nInternal controls (firewalls, departments, etc.) are meant to prohibit any cooperation between audit and non-audit services in winning customer contracts or favour. However, critics would argue that this does not go far enough and can lead to less rigorous audits, calling for the Big Four to be broken up. Critics highlight poor practices in recent accounting scandals, including  Wirecard, Carillion, Satyam Computer Services, South Africa examples, etc. \n\nHowever, it should be highlighted that even if the Big Four were separated, this would not necessarily lead to no accounting scandals. Some fraudulent practices may be hard to catch even if objective and following best practices. Also, there are other areas of possible conflict of interest that non-accounting work, including how the corporate hires the auditor."
+  },
+  {
+    "query_id": "history-1",
+    "original_query": "Would the United Kingdom have been ready for WWII without the time gained through Appeasement?",
+    "query_style": "concise",
+    "query": "Would the United Kingdom have been militarily prepared for World War II without the time gained through appeasement policies during the interwar period, considering factors such as rearrangement efforts, military modernization, and strategic reorientation in relation to Nazi Germany's aggressive expansion?",
+    "domain": "history",
+    "guidelines": "Many argue Britain's army was depleted in the early 1930s and stretched across the globe. UK defence spending had fallen significantly during the 1920s, from over £700 million in 1919 to 100 million in 1931.\n\nBetween 1934 and 1939, the UK launched a substantial programme of re-arming, recognising that war with Hitler was becoming increasingly likely. Although Appeasement was also motivated by Chamberlain's desire to end war, some argue this meant that the UK was more prepared in 1939 when war eventually broke out.  \n\nDespite these efforts, Germany was still better prepared for war under Hilter's single-minded preparation since he came to power in 1933. However, without Appeasement, the differential might have been much worse."
+  },
+  {
+    "query_id": "history-6",
+    "original_query": "What were the lasting social changes brought about by the Black Death?",
+    "query_style": "concise",
+    "query": "What were the lasting demographic, economic, and cultural changes brought about by the 1346-1353 European pandemic of bubonic plague, also known as the Black Death, including impacts on feudalism, urbanization, family structures, social mobility, and attitudes towards death and mortality?",
+    "domain": "history",
+    "guidelines": "The black death was a bubonic plague pandemic occurring in Afro-Eurasia from 1346 to 1353, estimated to have killed hundreds of millions of people. The sheer quantity of death and significant social consequences across the region.\n\nAfter the Black Death, there was a chronic shortage of labour, which saw wages rise substantially. Some even attributed the Black Death as a key contributor to the end of feudalism and gave peasants and labourers more power relative to their Lords. \n\nThe mental anguish resulted in fear and accusations across society. Some argue the Roman Catholic Church lost authority and persecuted minorities (Jews, Lepers, etc.). \n\nIt is also heavily debated if the Black Death created the social and cultural platform for the Renaissance."
+  },
+  {
+    "query_id": "history-11",
+    "original_query": "Francesco Petrarch coined the term Dark Ages. Was this a fair description of this period of history?",
+    "query_style": "concise",
+    "query": "Francesco Petrarch's Renaissance-era characterization of the Medieval period as Tenebrae or Dark Ages; critique of this description; historical context and implications of labeling a period with such a term; impact on perceptions of European cultural and intellectual development during 5th-10th centuries.",
+    "domain": "history",
+    "guidelines": "The Dark Ages is a term often used synonymously with the Early Middle Ages in Europe. It refers to the period between the fall of the Roman Empire and the beginning of the Italian Renaissance. This was derogatory characterisation highlighting the economic, intellectual, and cultural decline. Scholar Petrarch coined this idea in the 1330s. Sources are relevant that discuss how are why some felt society had declined during these years or evidence of progress."
+  },
+  {
+    "query_id": "history-12",
+    "original_query": "Why did England have a reformation of religion under Henry VIII?",
+    "query_style": "concise",
+    "query": "Why did the Church of England undergo a significant religious reformation during the reign of King Henry VIII, considering factors such as the English Reformation's impact on Catholicism, Protestantism, and the monarch's role in shaping ecclesiastical policies?\n\n(Note: I've added terms like significant, Church of England, ecclesiastical policies to provide context and specificity. I've also included alternative terms like English Reformation and its impact on Catholicism and Protestantism to broaden the scope.)",
+    "domain": "history",
+    "guidelines": "Henry VIII had been a devout Catholic in his younger years. He had defended the Pope against the Protestant ideas published by Martin Luther, a German priest. Henry VIII loved his first wife, Catherine of Aragon, however her inability to produce a male heir made him seek divorce. However, divorce was incomprehensible in the eyes of the Catholic faith. He, therefore, looked to the reformation sweeping Germany in the 1500s. This reformation pathed the way for radical church reforms, one of which allowed divorce. \n\nIn 1534, Henry used Parliament to grant the Act of Supremacy, which allowed him to annul his marriage to Catherine as it made the monarch the head of the English Church. Some sources also highlight Anne Boleyn's influence over Henry VIII, who engaged in reformist thinking. It should also be highlighted the strength of the protestant movement and the criticism of the Catholic Church's wealth at the time."
+  },
+  {
+    "query_id": "history-13",
+    "original_query": "Why did Japan attack the United States at Pearl Harbour?",
+    "query_style": "concise",
+    "query": "Why did Japan launch the surprise military attack on the United States naval base at Pearl Harbor in Hawaii, resulting in significant losses for the US Pacific Fleet, on December 7, 1941?",
+    "domain": "history",
+    "guidelines": "The attack on Pearl Harbor in 1941 was a surprise military strike by Imperial Japan upon the United States at the naval base at Pearl Harbor. Many arguments have been made to why Japan attacked the United States, especially considering potential military retaliation.  \n\nFirstly, fueled by successful campaigns in China and Russia, Japan wanted to be a global power. In comparison, America was trying to limit this by placing embargoes on key products and resources to restain Japan's empire building. War seemed inevitable, especially since the 1940 signing of the Tripartite Pact between Japan, Italy, and Germany. Being much militarily weaker than the US, some argue that Japan needed a surprise attack, and Pearl Harbour was a prime target due to its strategic importance in the Pacific. \n\nMany also argue that Japan anticipated America's reaction incorrectly. There was a perceived anti-intervention lobby within the US Congress. The Japanese believed that the decisive destruction of Pearl Harbour might deter the Americans from getting further involved in a conflict.\nWhile others highlight historical grievances that made Japan bullish on an attack, including Western blocking of a race equality clause in the Treaty of Versailles and multilateral arms limitation placed on Japan. Additionally, some perceived Japan's political democracy had taken an increasingly nationalist tone since the Great Depression."
+  },
+  {
+    "query_id": "history-15",
+    "original_query": "Why did Winston Churchill lose the 1945 General Election after winning World War II?",
+    "query_style": "concise",
+    "query": "Here is the enhanced query:\n\nWhat were the underlying reasons for Winston Churchill's defeat in the 1945 British General Election following his leadership during World War II, specifically considering factors such as post-war exhaustion, domestic policy disagreements, and Labour Party opposition under Clement Attlee?\n\nNote: I've added specific terminology (e.g., post-war exhaustion, domestic policy disagreements), alternative terms or synonyms (e.g., British General Election instead of just General Election), and additional context to clarify the information need. The query structure remains natural while incorporating relevant details that can improve retrieval metrics.",
+    "domain": "history",
+    "guidelines": "It is perhaps surprising that Winston Churchill lost the 1945 UK General Election after being so instrumental in achieving victory in WWII. In one of the biggest electoral swings of the twentieth century, the Labour Party won the general election decisively.\n\nSome argue Churchill was largely seen as a war-time leader and less trusted domestic and foreign policy. However, the public wanted a government to look after soldiers and families who had fought for their country. Labour and Clement Attlee better understood this by promising national healthcare and welfare that reflected the post-1945 mood. In comparison, the Conservatives tried to use Churchill’s popular appeal, lowering taxation, maintaining defence spending and encouraging private business interests.\n\nThe Conservatives were also easy political targets for the past mistakes during interwar periods, i.e. Appeasement and the Great Depression. Churchill and the Conservatives are also generally considered to have run a poor campaign compared to Labour."
+  },
+  {
+    "query_id": "history-16",
+    "original_query": "Would Adolf Hitler have won World War II if he had invaded England instead of the Soviet Union?",
+    "query_style": "concise",
+    "query": "Here is the enhanced query:\n\nWould Adolf Hitler's strategic decision to invade England instead of the Soviet Union in World War II have led to a German victory, considering alternative scenarios where British resistance was weakened or the Battle of Britain was won by the Luftwaffe, and taking into account historical assessments of military campaigns, operational art, and geostrategic implications?",
+    "domain": "history",
+    "guidelines": "In 1941, Operation Barbarossa transformed Nazi Germany's war from a one-front struggle, against arguable weakened Britain and the still-neutral United States, into a two-front conflict. The Eastern Front absorbed much of the German army and inflicted roughly two-thirds of German casualties due to Soviet resistance, conditions, and lack of equipment. As a result, many point to Hitler's decision to invade the Soviet Union as a key tactical mistake.\n\nHowever, it is heavily debatable if Germany had invaded Britain and not the Soviet Union whether this would have ultimately changed the war's outcome. Moreover, whether Germany could have successfully invaded Britain is open for debate. For example, Operation Sealion, the proposed 1940 amphibious assault on southern England, was postponed due to lack of equipment. Also, several people argue that invading Britain would have pushed the United States into the conflict earlier. Furthermore, the Soviet Union may not have stayed on the sidelines and allowed a German superpower to rise, which may have created the two-front conflict either way. There is considerable uncertainty with discussion around alternative versions of military strategy decisions."
+  },
+  {
+    "query_id": "history-17",
+    "original_query": "How significant was Smallpox in the Spanish defeat of the Aztecs?",
+    "query_style": "concise",
+    "query": "How significant was the role of variola virus or smallpox disease in the conquest and defeat of the Aztecs by Spanish conquistadors in 16th century Mexico, particularly during the period under Hernán Cortés' leadership?",
+    "domain": "history",
+    "guidelines": "In 1517 the Spanish conquistadors, led by Hernán Cortés, arrived in Tenochtitlan, the capital of the Aztec Empire and was welcomed by Aztec ruler Motecuhzoma II. However, two years later, the conquistadors returned to conquer Mexico and by August 1521 Tenochtitlan had been destroyed. \n\nSmallpox undoubtedly played a significant role in the fall of the Aztec Empire. Smallpox is a horrific and highly contagious illness that causes the Mexican population to drop by an estimated 90% between 1520 and 1600. However, historians also point to other reasons why the Aztecs were defeated by the Spanish, i.e. superior weaponry, military tactics, and internal political or religious practices of the Aztecs."
+  },
+  {
+    "query_id": "history-18",
+    "original_query": "Were the Crusades driven by religious devotion or political and economic gain?",
+    "query_style": "concise",
+    "query": "Were the medieval Christian-led Crusades primarily motivated by genuine religious zeal, piety, or a desire to reclaim sacred sites, versus being driven by secular factors such as territorial expansion, resource acquisition, economic interests, or political ambitions of powerful nobles and monarchs?",
+    "domain": "history",
+    "guidelines": "The Crusades (1095 and 1291) were a series of religious campaigns by the Catholic Church and Western European nobles to recover Jerusalem and other sacred religious sites from Islamic rule. \n\nThere has been much debate amongst historians around institutional and individual motivations for undertaking the Crusades. Some argue that religion was a key motivating factor, i.e. “armed pilgrimage”. The public at the time was deeply religious, and this would be a strong motivator if they felt due to piety and remission of sins. However, many also historians argue the Crusades were driven by political and economic gain. Going on Crusade was a means for knights and Princes to potentially win lands, gold, and political favour with the Church."
+  },
+  {
+    "query_id": "history-19",
+    "original_query": "How close did the world come to nuclear war during the Cuban Missile Crisis?",
+    "query_style": "concise",
+    "query": "How close did the world come to nuclear war during the 1962 Cuban Missile Crisis, considering the proximity of Soviet SS-4 and SS-5 missile sites in Cuba to potential US targets, including the naval base at Guantanamo Bay, and accounting for the role of military leaders like Robert McNamara and Fidel Castro in escalating tensions, while also taking into account the diplomatic efforts of Kennedy's ExComm group, led by Theodore Sorensen, and the eventual success of a negotiated settlement through Soviet Premier Nikita Khrushchev's acceptance of UN resolution 2201.",
+    "domain": "history",
+    "guidelines": "During the Cuban Missile Crisis, leaders of the United States and the Soviet Union engaged in a 13-day political and military standoff in October 1962 over the installation of nuclear-armed Soviet missiles on Cuba. This was the peak of the Cold War and a high-stakes political and military situation, given the potential devastation of nuclear weapons. However, exactly how close we came to nuclear armageddon is still debated. \n\nThe political leaders within this crisis were JFK for the United States, Nikita Khrushchev of the Soviet Union, and Fidel Casto of Cuba. Many highlights that JFK and Khrushchev were measured in their leadership styles and understood nuclear war meant mutual destruction. Some highlight exchanging of letters and other communications to prevent a nuclear war. Nonetheless, many highlight the mistrust and fear between both sides and how a single false move could have led to a disaster. Both sides were actively preparing for a nuclear war, and some within each camp through nuclear strikes was likely."
+  },
+  {
+    "query_id": "history-20",
+    "original_query": "How vital was French support during the American Revolutionary War?",
+    "query_style": "concise",
+    "query": "How vital was French diplomatic support and financial assistance to the Continental Army during the American Revolutionary War, considering the strategic impact of the Treaty of Alliance in 1778 and the role of key figures like Benjamin Franklin? \n\n(French involvement AND American Revolution AND Continental Army AND financial aid AND diplomatic support) (AND/or Treaty of Paris OR Treaty of Alliance)",
+    "domain": "history",
+    "guidelines": "The American Revolutionary War (1775 – 1783) secured the United States of America independence from Great Britain. Several historians point to the fact that French support was crucial for gaining independence. Specifically, the French provided supplies, arms and ammunition, uniforms, troops and naval support to the Continental Army under George Washington. This was part of the Treaty of Alliance. As well as the direct support in America, France also was an active threat to Great Britain in other parts of the Empire, which meant Britains focus was spread. \n\nNonetheless, some historians put forward other key reasons why Great Britain lost the Revolutionary War, i.e. fighting on American soil, poor military tactics, economic concerns, Spanish support, and lack of political will."
+  },
+  {
+    "query_id": "history-23",
+    "original_query": "Why did the Treaty of Versailles fail?",
+    "query_style": "concise",
+    "query": "Why did the Treaty of Versailles fail to effectively prevent future global conflicts, given its inability to address reparations, territorial adjustments, and disarmament, resulting in widespread resentment among German citizens and a sense of injustice that contributed to the rise of Nazi Germany?\n\nThis enhanced query incorporates specific terminology (reparations, territorial adjustments, disarmament), alternative terms or synonyms (global conflicts, future wars, widespread resentment), additional context (preventive measures, justice perception, rise of extremist ideologies), while maintaining a natural language structure suitable for modern retrieval systems.",
+    "domain": "history",
+    "guidelines": "1918 brought an end to World War I fighting, which had seen an unprecedented loss of life and suffering. After that, however, the victorious Allied Powers (led by Britain, France, the United States and Italy) had to complete peace treaties with their opponents in the Central Powers (Germany, Austria, Hungary, Bulgaria and the Ottoman Empire). The most important of these treaties was the Treaty of Versailles, ending the war with Germany produced by the Paris Peace Conference and signed in 1919. \n\nMany saw the Treaty of Versailles as a failure as WWII erupted some 20 years later. Some historians highlight that the Treaty was overly punitive or even humiliating toward Germany and increased the likelihood of WII, which has been connected to the rise of Adolf Hilter and Nazi Germany. However, other historians argue these types of concessions were standard for a losing nation at the time. The Allies also all had different incentives and political motivations towards Germany, with several arguably not seeing Germany as a future threat. \n\nLike any treaty, the consequences of breaking it should be significant. However, when Hilter came into power and violated many of the Treaty of Versailles terms, the Allies took a stance of appeasement. Thus, it is debatable whether the treaty itself is to balme. While other factors also played into the rise of Nazi Germany, i.e. economic crisis following the Wall Street crash in 1929 and propaganda."
+  },
+  {
+    "query_id": "history-24",
+    "original_query": "How did American media coverage of the war in Vietnam shape public attitudes and opinions?",
+    "query_style": "concise",
+    "query": "How did American media coverage of the Vietnam War's escalation in the 1960s shape public attitudes and opinions on anti-war protests, government policies, and US involvement through the lens of propaganda, sensationalism, and objective journalism?\n\n(Note: I've added specific terminology like escalation, anti-war protests, propaganda, and sensationalism to capture relevant documents. Alternative terms or synonyms for key concepts like public attitudes and opinions have also been included. The additional context clarifies the information need, focusing on the impact of media coverage during a specific period.)",
+    "domain": "history",
+    "guidelines": "The Vietnam War (1955–75) is often referred to as the first televised war. From 1950 to 1966, Americans who owned televisions skyrocketed from 9% to 93% as televisions became essential for everyday life. This made it much harder for United States Government to control the narrative with previous war propaganda techniques. \n\nMany historians point to negative media coverage as a key cause of the negative public option of the Vietnam War, specifically the public seeing graphic and uncensored images for the first time. Some argue the media executive had a negative view of the war. \n\nHowever, other historians highlight other reasons for some of the public's negative views. For example, the Vietnam war was fought on tough jungle terrain and guerrilla-style warfare was hard to win. As a result, there were many casualties and the war was taking much longer than expected."
+  },
+  {
+    "query_id": "history-25",
+    "original_query": "How responsible was Rasputin for the fall of the Romanov dynasty?",
+    "query_style": "concise",
+    "query": "Here is the enhanced query:\n\nAssessing Rasputin's culpability in the downfall of the Romanov dynasty, examining his influence on Nicholas II's decision-making, the role of Grigori Rasputin in destabilizing the Russian monarchy, and evaluating the impact of his mysticism and perceived syphilis on the family's demise during the Russian Revolution.",
+    "domain": "history",
+    "guidelines": "The Russian Tsar, Nicholas II, abdicated from power in 1917, bringing the 300-year-old Romanov dynasty to an end. Some historians suggest that Grigori Rasputin's scandalous reputation helped discredit the Tsarist government and helped to lay the foundation for the Russian Revolution. \n\nHowever, many historians argue that although Rasputin was a useful propaganda tool against the Tsar, much larger factors were at play. For example, Nicholas II was viewed as a weak leader, the Russo-Japanese War, Bloody Sunday, Tsarina unpopularity, and WWI. There was also significant economic issues, including inflation and food shortages."
+  },
+  {
+    "query_id": "politics-1",
+    "original_query": "Is Scottish Independence inevitable?",
+    "query_style": "concise",
+    "query": "Is Scottish Independence inevitable considering recent polls trend towards separation, implications of Brexit on UK sovereignty, Scottish National Party's (SNP) continued electoral success, and historical precedents for independence movements in Scotland?\n\n(Added terms: polls trend, Brexit implications, Scottish National Party's electoral success, historical precedents)",
+    "domain": "politics",
+    "guidelines": "This questions focuses on the long-term political, economic and social reasoning behind whether Scotland will likely become independent. Short-term facts and opinions are less central to this question.\n\nSome argue that Scottish independence is inevitable given the surge of support towards SNP in recent decades. Labour has lost political weight in Scotland since the Blair era, and Conservatives historically struggle to penetrate a more left-wing Scottish demographic. Brexit further exacerbated this political unease, i.e. right-leaning Britain and left-leaning Scotland. While the younger demographic is more likely to be independence supporters and the older demographic is more likely to be pro-union.\n\nThere are several arguments that Scotland independence is not inevitable. Historically there has been a union for 300+ years covering a full range of circumstances (world wars, successes). Economically, Britain funds lots of Scottish spending through Barnett-based funding, Scotland's oil is less valuable than previously, and there is much economic uncertainly around currency and debt. Some also argue that Scotland has large political independence due to devolution; thus, independence is unnecessary."
+  },
+  {
+    "query_id": "politics-3",
+    "original_query": "Are nations with nuclear capabilities a threat to world peace or a deterrent?",
+    "query_style": "descriptive",
+    "query": "`Nuclear nations threat or deterrent to world peace`",
+    "domain": "politics",
+    "guidelines": "Russia and USA have the vast majority of the worlds nuclear weapons. However, China, UK, France, Pakistan, India, and Israel also have substantial nuclear arsenals. North Korea has been in the headlines due to developing nuclear weapons and running secret and public tests.\n\nWhether nuclear weapons are a threat or a deterrent has been a large debate since the devastation caused in Japan during the end of WW2. \nPeople in favour of nuclear deterrents would argue that there has not been a major world war since the development of these weapons. Specifically ensuring US and Russia, or India and Pakistan, do not confront each other directly because they know it will lead to their mutual destruction. Those against nuclear weapons argue they encourage non-nuclear nations to develop weapons, which cause instability. There is also the real threat of a catastrophe due to escalation, miscommunication, or mistake."
+  },
+  {
+    "query_id": "politics-4",
+    "original_query": "What has been the impact of the Umbrella Movement on Hong Kong politics?",
+    "query_style": "concise",
+    "query": "What has been the long-term impact of the Umbrella Movement on democratic development in Hong Kong politics, particularly with regards to government accountability, social mobilization, and the relationship between protesters and the Beijing-backed administration?\n\nNote: I have added specific terminology (democratic development), alternative terms or synonyms (government accountability, social mobilization), additional context (long-term impact), and maintained a natural language structure.",
+    "domain": "politics",
+    "guidelines": "The Umbrella Movement started its activities in late September 2014 in Hong Kong as an emancipatory social movement for democratic reform, following the announcement from Beijing in the impending 2017 election. Where candidates for the office of chief executive would need to be nominated by a 1200-person nominating committee made up of individuals predominantly representing business interests and other groups close to mainland China. Some Hong Kong residents were upset, seeing these terms as hollow of the true meaning of having a universal vote. \n \nWhile the Umbrella Movement protests did not achieve full universal suffrage, they had some lasting effects. Firstly, it is unlikely that the protests of 2019 would have been as enduring as they were if not for the experience gained by the movement’s protestors five years prior. Additionally, the prosecution of many of the most prominent faces of the Umbrella Movement created a sense of urgency amongst some Hong Kong residents to band together to strengthen resistance efforts. Finally, by highlighting the argued contradictions and injustices, the Umbrella Movement has promoted more politically conscious and active citizenship, especially within Hong Kong’s younger demographics."
+  },
+  {
+    "query_id": "politics-5",
+    "original_query": "How did Colin Kaepernick impact the political discourse about racism in the United States?",
+    "query_style": "concise",
+    "query": "Here is the enhanced search query:\n\nHow did Colin Kaepernick's NFL protests and anthem kneeling controversy specifically impact the national conversation on systemic racism, police brutality, and racial inequality in the United States, particularly in relation to Black Lives Matter movement, social justice activism, and American identity politics?\n\nNote: I've added specific terminology (e.g., systemic racism, police brutality, racial inequality), alternative terms or synonyms for key concepts (e.g., Black Lives Matter movement instead of just Black Lives Matter), and additional context to clarify the information need. The query structure remains natural and can be leveraged by modern retrieval systems.",
+    "domain": "politics",
+    "guidelines": "In 2016, former San Francisco 49ers quarterback, Colin Kaepernick took the knee during the national anthem at an NFL game in protest of police brutality and racial injustice in America. The immediate reactions were highly polarised – on the political right, Kaepernick’s kneeling sparked anger, with critics viewing the player’s defiance as an affront to patriotism; meanwhile, for those sympathetic to Kaepernick’s motivations, it inspired meaningful discourse and offered a blueprint for how to protest with impact peacefully.\n\nMore than five years on, journalists now refer to the mass political movement that this simple gesture produced as ‘The Kaepernick Effect.’ Kaepernick’s protests not only stoked passion and awareness in the public consciousness; they went beyond that within the Black community. According to a study of political behaviour among Black Americans, Kaepernick was “a powerful mobilising force” who directly inspired nearly one-third of Black people polled to donate to a political cause, attend a protest or boycott the NFL. In addition, more than half of respondents said Kaepernick inspired them to vote in a local or national election."
+  },
+  {
+    "query_id": "politics-6",
+    "original_query": "Would Obama have won the 2012 US Presidential Elections without the Latino vote?",
+    "query_style": "descriptive",
+    "query": "Obama's 2012 US Presidential Election outcome without Latino vote",
+    "domain": "politics",
+    "guidelines": "Defying predictions that their participation would be lacklustre, Latinos in the 2012 US presidential elections turned out in record numbers. They voted for Barack Obama by broad margins, tipping the balance in at least three swing states and securing their position as an organized force in American politics with the power to move national elections. Overall, Barack Obama won 71% of the Hispanic vote while Mitt Romney won only 27%. The gap of 44 percentage points was even more significant than Barack Obama’s 36-point advantage over John McCain during the 2008 elections.\n\nLatinos had such a strong turnout in the 2012 elections that it lifted them to 10% of voters nationwide, increasing from 6% in 2000. Their most significant impact was in several battleground states portrayed as close contests before Election Day. In Colorado, Nevada and New Mexico, Barack Obama won the Hispanic vote by significant percentages that well exceeded margins of victory. Latinos significantly increased their share of total voters in each of those states, gaining influence that will prove to continue to be decisive in future elections."
+  },
+  {
+    "query_id": "politics-7",
+    "original_query": "Should the Electoral College system in United States elections be abolished?",
+    "query_style": "concise",
+    "query": "Should the Electoral College system in United States presidential elections be abolished or replaced with a national popular vote system, considering arguments about direct democracy, representation, voting rights, proportional allocation of electoral votes, constitutional amendments, and election reform?",
+    "domain": "politics",
+    "guidelines": "Most Americans who cast a ballot to elect the president and vice president of the United States believe they vote directly for their candidate. The reality is that the Electoral College elects both the president and, in turn, the vice president under Article II, Section 1, of the US Constitution. Proponents of the Electoral College claim that the risks in the present system are exaggerated, pointing to the limited number of occasions where concerns around undemocratic outcomes have come to fruition. Another common argument favouring retaining the Electoral College is that it brings “stability and certainty” as a constitutional structure in presidential elections.  \n\nOn the other hand, advocates of abolishing the Electoral College system point claim that insofar as democracy should represent the rule of the majority, the Electoral College is a fundamentally undemocratic institution. The evidence for this assertion is clear; in many recent presidential elections, the office went to the loser of the popular vote, e.g. 2000 with George W. Bush and 2016 with Donald J Trump. In the latter example, Trump lost the popular vote by more than 2 million votes, highlighting critics’ views that voters would become disenfranchised due to the Electoral College system."
+  },
+  {
+    "query_id": "politics-9",
+    "original_query": "How have binary choices in referendums been a challenge for UK democracy over the last decade?",
+    "query_style": "concise",
+    "query": "Here's an enhanced version of the original search query:\n\nWhat are the implications of binary choices in referendums on UK democratic institutions over the last decade? How have these binary options affected voter engagement, representation, and legitimacy in British democracy, particularly with regards to issues like Scottish independence, Brexit, and devolution?\n\nThis revised query aims to improve retrieval by incorporating relevant terminology (e.g., binary choices, referendums, UK democratic institutions), alternative terms or synonyms for key concepts (e.g., voter engagement instead of just engagement), and additional context that clarifies the information need (e.g., specific issues like Brexit).",
+    "domain": "politics",
+    "guidelines": "There have been two key binary referendums in the UK in recent years: (1) the 2014 vote on Scottish Independence and (2) the 2016 vote on whether the UK should leave the EU (i.e. Brexit).\n\nSome critics of binary referendums believe they trivialise highly complex issues by oversimplifying them into a yes-or-no vote. Where political campaigning can decide the outcome irrespective of the fact, some point to Boris Johnson's £350m per week EU bill as a powerful example. Others feel referendums are democracy in action and allow the public to decide on important matters directly. Finally, others highlight the exact wording, winning thresholds, or the number of choices (i.e. should there be a middle ground?) can have a disproportionate impact on the outcome of these referendums.\n\nThere have also been democratic consequences before, during and after referendums. For example, this directly splits countries and nations into binary camps (i.e. yes vs no and leave vs remain), which some argue has created greater societal divides. There is also questions about the political mandate that close referendum wins give leaders, i.e. how much to consider the losing population."
+  },
+  {
+    "query_id": "politics-12",
+    "original_query": "Why is universal healthcare so politically controversial in the United States?",
+    "query_style": "concise",
+    "query": "Why is universal healthcare reform so politically polarizing in contemporary American politics, particularly given its implementation in other developed nations with differing social and economic systems? \n\nIncorporating key concepts such as healthcare reform, political polarization, and international comparisons could improve retrieval efficiency.",
+    "domain": "politics",
+    "guidelines": "Universal health coverage means that all people have access to free health services. For example, public healthcare provided by the NHS in Britain or provincial healthcare in Canada. This is in contrast to the United States, where healthcare is primarily paid for via expensive health insurance funded individually or by corporate policies. \n\nSome argue the disadvantages of universal healthcare lead to large upfront costs and logistical challenges. In addition, given rising populations and the cost of healthcare, universal healthcare would require significant tax rises to fund. On the other hand, the benefit of universal healthcare is a reduction in health disparities and leads to a healthier populace. Currently, in the United States, low socioeconomic status is linked to decreased access to quality healthcare and increased risk of non-communicable chronic conditions.\n\nUniversal healthcare has increasingly become a polarising issue within the United States. Many sections of the Republican Party, which support low-tax and free-market, vehemently oppose many forms of universal healthcare. For example, trying to block repeatedly and then replace the Affordable Care Act brought in by Barack Obama. Relevant sources will focus on political controversies and arguments within America."
+  },
+  {
+    "query_id": "politics-13",
+    "original_query": "Should the burden of funding climate change initiatives be solely on developed nations?",
+    "query_style": "concise",
+    "query": "**Enhanced Query:**\n\nShould developed countries bear sole responsibility for funding climate change mitigation and adaptation efforts, considering their historical greenhouse gas emissions, economic capabilities, and moral obligations, versus a more equitable distribution of financial burdens among nations?\n\n**Added terms and concepts:**\n\n* Climate change mitigation\n* Climate change adaptation\n* Greenhouse gas emissions\n* Economic capabilities\n* Moral obligations\n* Equitable distribution\n* Financial burdens\n\n**Alternative terms or synonyms:**\n\n* Developed countries -> High-income economies, industrialized nations, Organisation for Economic Co-operation and Development (OECD) member states\n* Funding initiatives -> Financial support, economic aid, resource allocation\n* Climate change initiatives -> Mitigation strategies, adaptation measures, sustainable development projects",
+    "domain": "politics",
+    "guidelines": "Climate change refers to long-term shifts in temperatures and weather shifts, which has increased since the industrial revolution in 1800. The primary driver is burning fossil fuels, i.e. coal, oil, and gas. Who should pay the vast resources required to reduce climate change (i.e. technology investment, caping resources used, etc.) and reduce the impact of climate change (i.e. flood prevention,  migration, etc.) is both a political and environmental question. This has caused much debate in recent climate conferences, i.e. COPs in Paris and Glasgow.\n\nThe developed countries (UK, Western Europe, US, Japan, Australia, etc.) have contributed far longer to climate change and have generally higher CO2 emissions per capita. They also have per capita much higher incomes, and overall, are more able to contribute to the cost of climate change. Many feel it is developed countries moral obligation to pay more. Nonetheless, this is politically challenging for domestic politics, specifically in the US.\n\nDeveloping countries with large populations (China, India, Pakistan, etc.) have become some of the largest polluters in recent years. As developing countries progress economically, this will naturally result in more emissions, i.e. more cars, more electricity, more construction. This creates a conflict between development and climate change. Developing countries are also disproportionately impacted by the effects of climate change, i.e. flooding, drought, etc. \n\nOverall, climate change is a global issue that will require countries, companies, and people to come together."
+  },
+  {
+    "query_id": "politics-16",
+    "original_query": "Why did Hilary Clinton lose the 2016 US presidential election?",
+    "query_style": "concise",
+    "query": "Why did Hillary Clinton's presidential campaign in the 2016 US general election experience a decisive loss despite leading in pre-election polls and polling favorably among key demographic groups such as women and minorities?\n\nAdditional context includes:\n- Factors contributing to her eventual defeat, including internal campaign issues\n- External factors like voter turnout and third-party candidates' impact on election results\n- Analysis of media coverage and public opinion during the campaign",
+    "domain": "politics",
+    "guidelines": "Hillary Clinton lost the 2016 US presidential election to Donald Trump in 2016. Political commentators highlight many reasons for Clinton's loss. \n\nFor example, Donald Trump managed to craft a strong populist message that resonated with many voters who were disenfranchised with current politics, particularly with the political elite who some felt Clinton represented. The Democratats were also divided, specifically far-left factions led by Bernie Sanders. Political gridlock under an Obama Administration that, rightly or wrongly, some felt the public wanting change. Hilary also had relatively low personal approval ratings, which were not helped by the FBI investigation into her use of email. Some also point to external factors, including Russian interference."
+  },
+  {
+    "query_id": "politics-17",
+    "original_query": "How did Tony Blair make the Labour Party more electable?",
+    "query_style": "concise",
+    "query": "Here is the enhanced query:\n\nTony Blair's leadership strategies for rebranding and revitalizing the Labour Party's image to increase its electability and competitiveness in UK general elections, including his use of neoliberal economic policies, third-way politics, and media relations tactics.\n\nThis expanded query incorporates specific terminology (e.g., neoliberal economic policies, third-way politics), alternative terms (e.g., rebranding instead of simply making more electable), and additional context (e.g., UK general elections) to improve the relevance and specificity of search results.",
+    "domain": "politics",
+    "guidelines": "Tony Blair rebranded the Labour party in Britain to New Labour in the mid-1990s to regain the electorate's trust and portray a departure from their traditional socialist policies. This was a noticeable shift from left-wing politics to the centre of British politics.\n\nTony Blair reduced the strength of Labour's association with trade unions by repealing the party's Clause IV, which committed the party to common ownership of the means of production. Again, seeking to appeal to both working and middle-class Britain. \n\nTony Blair led Labour to a landslide victory in 1997, which many also attribute to his leadership and start quality. He was supported by Gordon Brown, who would become Chancellor of the Exchequer. Nonetheless, the fact the Conservatives were in such disarray under John Major helped Tony Blair. Specifically, the pound sterling dropped out of the European Exchange Rate Mechanism on Black Wednesday and the government was defeated over the Maastricht Treaty."
+  },
+  {
+    "query_id": "politics-20",
+    "original_query": "Should social media companies be held liable for content and actions made by their users?",
+    "query_style": "concise",
+    "query": "Should social media companies be held liable for user-generated content, online harassment, hate speech, cyberbullying, and other malicious actions, considering the intersection of freedom of expression, digital citizenship, data protection regulations (GDPR, CCPA), Section 230 of the Communications Decency Act, and the evolving role of moderators in preventing harm?",
+    "domain": "politics",
+    "guidelines": "Social media companies (Facebook, Twitter, Google, etc.) have been under increasing public and political pressure regarding content and actions made by users on platforms. For example, if a graphic or illegal video is posted on Facebook, Youtube or Twitter, how much liability lies with the person posting versus the company hosting the video? \n\nSome argue that Social Media, and the internet in general, needs to be protected as a means for people to interact openly, pointing to many of the positives social media has brought, i.e. political activism, online discussion, etc. This support the legal position that Social Media is not a publisher but allows people to publish their content. \n\nHowever, others argue that Social Media has a duty of care to users and should remove content that violates their terms and conditions (this commonly happens today). Therefore, have share liability with users. The issue inforcing this is twofold (1) real-time speed and scale of social media, and (2) when content is controversial but less illegal. Nonetheless, many countries worldwide have been pushing towards Social Media companies having increased liability for their content, although this is a legislative challenge."
+  },
+  {
+    "query_id": "politics-22",
+    "original_query": "What was the role of technology in the Arab Spring?",
+    "query_style": "concise",
+    "query": "What was the role of digital media and social networking in facilitating protests and regime change during the Arab Spring uprising, including the use of mobile apps, online activism, and cyberactivism in Tunisia, Egypt, Libya, Yemen, Syria, Bahrain, and other affected countries?",
+    "domain": "politics",
+    "guidelines": "The Arab Spring was a series of anti-government protests and uprisings that spread across much of the Arab world in the early 2010s. It began with the Tunisian Revolution, which was in response to corruption and economic stagnation, spreading to Libya, Egypt, Yemen, Syria, and Bahrain, and mass protests in other Arab nations.\n\nSocial media played a significant role in facilitating communication and conversations among political protests (pro and anti-government). However, this varied by country significantly, i.e. Egyptians called to protest online with the help of a Facebook campaign, We Are All Khaled Said. Other political pundits say that although Social Media did speed up political action, the underlying political factor was already there and may have happened regardless."
+  },
+  {
+    "query_id": "politics-23",
+    "original_query": "Is the rise of European populism a threat to the European Union?",
+    "query_style": "concise",
+    "query": "Is the rise of European populist far-right nationalism a threat to the stability and cohesion of the European Union's democratic institutions, economic integration, and social policies? \n\nDoes the query contain sufficient specificity and terminology from relevant fields such as political science, sociology, economics, or international relations?",
+    "domain": "politics",
+    "guidelines": "Populist is a broad term that describes, typically a politician, who targets people who feel that established elite groups disregard their concerns. Some critics highlight negative connotations, including criticising foreign migration or minorities.\n\nIn recent years, populism has been stronger in Eastern Europe, i.e. Bulgaria, Hungary, Austrian, and Poland, etc. have seen the rise of populist politicians. Right-wing populist movements have also gained momentum in France, Spain, the United Kingdom and other parts of Europe. In Hungary and Poland, some critics argue this has led to an erosion of the rule of law, increased persecution, and authoritarianism.\n\nEuropean Union is a political union of democratic nations. However, radical right-wing politics reject what the EU stands for and how it works, i.e. against European supranational integration and push for national policies. Populists also criticise the EU's perceived bureaucracy and failures - common arguments during the Brexit Leave campaign. The EU is founded based on shared democratic values that countries need to be relatively ideologically aligned to function within a political union. There is also the threat that disillusioned Eastern European countries will turn away from the EU and toward Russia."
+  }
+]
