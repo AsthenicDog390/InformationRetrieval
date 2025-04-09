@@ -2,6 +2,6 @@ datasets
 transformers
 torch
 accelerate
-python-terrier
-notebook
+optimum-quanto
+
 ollama
